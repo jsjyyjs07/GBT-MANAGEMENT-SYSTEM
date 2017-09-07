@@ -1,0 +1,20 @@
+E:\WorkSpaces\管理系统\GBT\WindowsAPI\bin\Debug\WindowsAPI.dll
+E:\WorkSpaces\管理系统\GBT\WindowsAPI\bin\Debug\WindowsAPI.pdb
+E:\WorkSpaces\管理系统\GBT\WindowsAPI\obj\Debug\WindowsAPI.dll
+E:\WorkSpaces\管理系统\GBT\WindowsAPI\obj\Debug\WindowsAPI.pdb
+D:\WorkSpaces\Management System\GBT\WindowsAPI\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\Management System\GBT\WindowsAPI\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\Management System\GBT\WindowsAPI\obj\Debug\WindowsAPI.dll
+D:\WorkSpaces\Management System\GBT\WindowsAPI\obj\Debug\WindowsAPI.pdb
+E:\WorkSpaces\管理系统\GBT\WindowsAPI\obj\Debug\WindowsAPI.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT尊宝电镀\WindowsAPI\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\GBT尊宝电镀\WindowsAPI\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\GBT尊宝电镀\WindowsAPI\obj\Debug\WindowsAPI.dll
+D:\WorkSpaces\GBT尊宝电镀\WindowsAPI\obj\Debug\WindowsAPI.pdb
+D:\WorkSpaces\GBT尊宝电镀\WindowsAPI\obj\Debug\WindowsAPI.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WindowsAPI\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WindowsAPI\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WindowsAPI\obj\Debug\WindowsAPI.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WindowsAPI\obj\Debug\WindowsAPI.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WindowsAPI\obj\Debug\WindowsAPI.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\Management System\GBT\WindowsAPI\obj\Debug\WindowsAPI.csprojResolveAssemblyReference.cache

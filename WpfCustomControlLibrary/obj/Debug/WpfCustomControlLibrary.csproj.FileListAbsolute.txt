@@ -1,0 +1,173 @@
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\bin\Debug\WpfCustomControlLibrary.dll
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\bin\Debug\WpfCustomControlLibrary.pdb
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary_MarkupCompile.cache
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary_MarkupCompile.lref
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\obj\Debug\Themes\Generic.baml
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.g.resources
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.csproj.GenerateResource.Cache
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.dll
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.pdb
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\obj\Debug\ToolBarAdvanced.baml
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\obj\Debug\ToolBarAdvanced.g.cs
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\bin\Debug\WpfCustomControlLibrary.dll
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\bin\Debug\WpfCustomControlLibrary.pdb
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\obj\Debug\ToolBarAdvanced.baml
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\obj\Debug\ToolBarAdvanced.g.cs
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary_MarkupCompile.cache
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary_MarkupCompile.lref
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\obj\Debug\Themes\Generic.baml
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.g.resources
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.csproj.GenerateResource.Cache
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.dll
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.pdb
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\bin\Debug\UIControl.dll
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\bin\Debug\Attribute.dll
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\bin\Debug\WindowsAPI.dll
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\bin\Debug\UIControl.pdb
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\bin\Debug\Attribute.pdb
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\bin\Debug\WindowsAPI.pdb
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\bin\Debug\PerformanceFunction.dll
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\bin\Debug\Attribute.dll
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\bin\Debug\UIControl.dll
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\bin\Debug\Attribute.pdb
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\bin\Debug\UIControl.pdb
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\bin\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\bin\Debug\DataBaseInterface.dll
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\bin\Debug\BusinessLogicLevel.pdb
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\bin\Debug\DatabaseConnection.pdb
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\bin\Debug\BusinessLogicLevel.dll
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\bin\Debug\DataBaseInterface.dll
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\bin\Debug\GeneralDataOperation.dll
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\bin\Debug\DatabaseConnection.dll
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\bin\Debug\BusinessLogicLevel.pdb
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\bin\Debug\DataBaseInterface.pdb
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\bin\Debug\GeneralDataOperation.pdb
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\bin\Debug\DatabaseConnection.pdb
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\obj\Debug\PerformanceFunction.Properties.Resources.resources
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\obj\Debug\PasswordTextBox.baml
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\obj\Debug\PasswordTextBox.g.cs
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\obj\Debug\PasswordTextBox.baml
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\obj\Debug\PasswordTextBox.g.cs
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\obj\Debug\GBTComboBox.baml
+E:\WorkSpaces\管理系统\GBT\WpfCustomControlLibrary\obj\Debug\GBTComboBox.g.cs
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\obj\Debug\GBTComboBox.baml
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\obj\Debug\GBTComboBox.g.cs
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\bin\Debug\WpfCustomControlLibrary.dll
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\bin\Debug\WpfCustomControlLibrary.pdb
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\bin\Debug\Attribute.dll
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\bin\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\bin\Debug\UIControl.dll
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\bin\Debug\DataBaseInterface.dll
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\bin\Debug\Attribute.pdb
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\bin\Debug\BusinessLogicLevel.pdb
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\bin\Debug\UIControl.pdb
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\bin\Debug\DatabaseConnection.pdb
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\obj\Debug\GBTComboBox.baml
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\obj\Debug\PasswordTextBox.baml
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\obj\Debug\ToolBarAdvanced.baml
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\obj\Debug\GBTComboBox.g.cs
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\obj\Debug\PasswordTextBox.g.cs
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\obj\Debug\ToolBarAdvanced.g.cs
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary_MarkupCompile.cache
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary_MarkupCompile.lref
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\obj\Debug\Themes\Generic.baml
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.g.resources
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\obj\Debug\PerformanceFunction.Properties.Resources.resources
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.csproj.GenerateResource.Cache
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.dll
+D:\WorkSpaces\GBT\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.pdb
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\bin\Debug\WpfCustomControlLibrary.dll
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\bin\Debug\WpfCustomControlLibrary.pdb
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\bin\Debug\Attribute.dll
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\bin\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\bin\Debug\UIControl.dll
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\bin\Debug\DataBaseInterface.dll
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\bin\Debug\Attribute.pdb
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\bin\Debug\BusinessLogicLevel.pdb
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\bin\Debug\UIControl.pdb
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\bin\Debug\DatabaseConnection.pdb
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\obj\Debug\GBTComboBox.baml
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\obj\Debug\PasswordTextBox.baml
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\obj\Debug\ToolBarAdvanced.baml
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\obj\Debug\GBTComboBox.g.cs
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\obj\Debug\PasswordTextBox.g.cs
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\obj\Debug\ToolBarAdvanced.g.cs
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary_MarkupCompile.cache
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary_MarkupCompile.lref
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\obj\Debug\Themes\Generic.baml
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.g.resources
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\obj\Debug\PerformanceFunction.Properties.Resources.resources
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.csproj.GenerateResource.Cache
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.dll
+D:\WorkSpaces\GBT尊宝电镀\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\bin\Debug\WpfCustomControlLibrary.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\bin\Debug\WpfCustomControlLibrary.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\bin\Debug\Attribute.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\bin\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\bin\Debug\UIControl.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\bin\Debug\DataBaseInterface.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\bin\Debug\Attribute.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\bin\Debug\BusinessLogicLevel.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\bin\Debug\UIControl.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\bin\Debug\DatabaseConnection.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\obj\Debug\GBTComboBox.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\obj\Debug\PasswordTextBox.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\obj\Debug\ToolBarAdvanced.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\obj\Debug\GBTComboBox.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\obj\Debug\PasswordTextBox.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\obj\Debug\ToolBarAdvanced.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary_MarkupCompile.cache
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary_MarkupCompile.lref
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\obj\Debug\Themes\Generic.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.g.resources
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.csproj.GenerateResource.Cache
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.Properties.Resources.resources
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\WpfCustomControlLibrary\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\WorkSpaces\Management System\GBT\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.Properties.Resources.resources

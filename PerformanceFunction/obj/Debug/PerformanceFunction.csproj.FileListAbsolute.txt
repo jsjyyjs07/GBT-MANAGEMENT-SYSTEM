@@ -1,0 +1,46 @@
+E:\WorkSpaces\管理系统\GBT\PerformanceFunction\bin\Debug\PerformanceFunction.dll
+E:\WorkSpaces\管理系统\GBT\PerformanceFunction\bin\Debug\PerformanceFunction.pdb
+E:\WorkSpaces\管理系统\GBT\PerformanceFunction\bin\Debug\WindowsAPI.dll
+E:\WorkSpaces\管理系统\GBT\PerformanceFunction\bin\Debug\WindowsAPI.pdb
+E:\WorkSpaces\管理系统\GBT\PerformanceFunction\obj\Debug\PerformanceFunction.csprojResolveAssemblyReference.cache
+E:\WorkSpaces\管理系统\GBT\PerformanceFunction\obj\Debug\PerformanceFunction.dll
+E:\WorkSpaces\管理系统\GBT\PerformanceFunction\obj\Debug\PerformanceFunction.pdb
+E:\WorkSpaces\管理系统\GBT\PerformanceFunction\bin\Debug\Attribute.dll
+E:\WorkSpaces\管理系统\GBT\PerformanceFunction\bin\Debug\Attribute.pdb
+D:\WorkSpaces\Management System\GBT\PerformanceFunction\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\Management System\GBT\PerformanceFunction\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\Management System\GBT\PerformanceFunction\bin\Debug\Attribute.dll
+D:\WorkSpaces\Management System\GBT\PerformanceFunction\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\Management System\GBT\PerformanceFunction\bin\Debug\Attribute.pdb
+D:\WorkSpaces\Management System\GBT\PerformanceFunction\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\Management System\GBT\PerformanceFunction\obj\Debug\PerformanceFunction.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\Management System\GBT\PerformanceFunction\obj\Debug\PerformanceFunction.dll
+D:\WorkSpaces\Management System\GBT\PerformanceFunction\obj\Debug\PerformanceFunction.pdb
+E:\WorkSpaces\管理系统\GBT\PerformanceFunction\obj\Debug\Interop.IWshRuntimeLibrary.dll
+E:\WorkSpaces\管理系统\GBT\PerformanceFunction\obj\Debug\PerformanceFunction.csproj.ResolveComReference.cache
+D:\WorkSpaces\Management System\GBT\PerformanceFunction\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\WorkSpaces\Management System\GBT\PerformanceFunction\obj\Debug\PerformanceFunction.csproj.ResolveComReference.cache
+D:\WorkSpaces\GBT尊宝电镀\PerformanceFunction\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\GBT尊宝电镀\PerformanceFunction\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\GBT尊宝电镀\PerformanceFunction\bin\Debug\Attribute.dll
+D:\WorkSpaces\GBT尊宝电镀\PerformanceFunction\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\GBT尊宝电镀\PerformanceFunction\bin\Debug\Attribute.pdb
+D:\WorkSpaces\GBT尊宝电镀\PerformanceFunction\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\GBT尊宝电镀\PerformanceFunction\obj\Debug\PerformanceFunction.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT尊宝电镀\PerformanceFunction\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\WorkSpaces\GBT尊宝电镀\PerformanceFunction\obj\Debug\PerformanceFunction.csproj.ResolveComReference.cache
+D:\WorkSpaces\GBT尊宝电镀\PerformanceFunction\obj\Debug\PerformanceFunction.dll
+D:\WorkSpaces\GBT尊宝电镀\PerformanceFunction\obj\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PerformanceFunction\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PerformanceFunction\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PerformanceFunction\bin\Debug\Attribute.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PerformanceFunction\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PerformanceFunction\bin\Debug\Attribute.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PerformanceFunction\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PerformanceFunction\obj\Debug\PerformanceFunction.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PerformanceFunction\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PerformanceFunction\obj\Debug\PerformanceFunction.csproj.ResolveComReference.cache
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PerformanceFunction\obj\Debug\PerformanceFunction.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PerformanceFunction\obj\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PerformanceFunction\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PerformanceFunction\bin\Debug\Microsoft.ReportViewer.Common.dll

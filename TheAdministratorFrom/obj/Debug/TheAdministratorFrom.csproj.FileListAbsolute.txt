@@ -1,0 +1,188 @@
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\bin\Debug\TheAdministratorFrom.exe.config
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\bin\Debug\TheAdministratorFrom.exe
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\bin\Debug\TheAdministratorFrom.pdb
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\obj\Debug\MainWindow.baml
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\obj\Debug\MainWindow.g.cs
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\obj\Debug\App.g.cs
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\obj\Debug\TheAdministratorFrom_MarkupCompile.cache
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\obj\Debug\TheAdministratorFrom.g.resources
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\obj\Debug\TheAdministratorFrom.Properties.Resources.resources
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\obj\Debug\TheAdministratorFrom.csproj.GenerateResource.Cache
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\obj\Debug\TheAdministratorFrom.exe
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\obj\Debug\TheAdministratorFrom.pdb
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\obj\Debug\DataBases.baml
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\obj\Debug\DataBases.g.cs
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\bin\Debug\PerformanceFunction.dll
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\bin\Debug\WindowsAPI.dll
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\bin\Debug\PerformanceFunction.pdb
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\bin\Debug\WindowsAPI.pdb
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\bin\Debug\Attribute.dll
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\bin\Debug\Attribute.pdb
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\obj\Debug\TheAdministratorFrom.csprojResolveAssemblyReference.cache
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\bin\Debug\WpfCustomControlLibrary.dll
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\bin\Debug\WpfCustomControlLibrary.pdb
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\bin\Debug\UIControl.dll
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\bin\Debug\UIControl.pdb
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\bin\Debug\TheAdministratorFrom.exe.config
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\bin\Debug\TheAdministratorFrom.exe
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\bin\Debug\TheAdministratorFrom.pdb
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\bin\Debug\Attribute.dll
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\bin\Debug\UIControl.dll
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\bin\Debug\WpfCustomControlLibrary.dll
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\bin\Debug\Attribute.pdb
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\bin\Debug\UIControl.pdb
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\bin\Debug\WpfCustomControlLibrary.pdb
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\obj\Debug\TheAdministratorFrom.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\obj\Debug\DataBases.baml
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\obj\Debug\MainWindow.baml
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\obj\Debug\DataBases.g.cs
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\obj\Debug\MainWindow.g.cs
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\obj\Debug\App.g.cs
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\obj\Debug\TheAdministratorFrom_MarkupCompile.cache
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\obj\Debug\TheAdministratorFrom.g.resources
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\obj\Debug\TheAdministratorFrom.Properties.Resources.resources
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\obj\Debug\TheAdministratorFrom.csproj.GenerateResource.Cache
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\obj\Debug\TheAdministratorFrom.exe
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\obj\Debug\TheAdministratorFrom.pdb
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\bin\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\bin\Debug\DataBaseInterface.dll
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\bin\Debug\BusinessLogicLevel.pdb
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\bin\Debug\DatabaseConnection.pdb
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\bin\Debug\BusinessLogicLevel.dll
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\bin\Debug\DataBaseInterface.dll
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\bin\Debug\GeneralDataOperation.dll
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\bin\Debug\DatabaseConnection.dll
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\bin\Debug\BusinessLogicLevel.pdb
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\bin\Debug\DataBaseInterface.pdb
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\bin\Debug\GeneralDataOperation.pdb
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\bin\Debug\DatabaseConnection.pdb
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\obj\Debug\AccessConfiguration\Privilege.baml
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\obj\Debug\AccessConfiguration\Privilege.g.cs
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\obj\Debug\AccessConfiguration\Users.baml
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\obj\Debug\AccessConfiguration\Users.g.cs
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\obj\Debug\AccessConfiguration\Privilege.baml
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\obj\Debug\AccessConfiguration\Users.baml
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\obj\Debug\AccessConfiguration\Privilege.g.cs
+E:\WorkSpaces\管理系统\GBT\TheAdministratorFrom\obj\Debug\AccessConfiguration\Users.g.cs
+D:\WorkSpaces\GBT\TheAdministratorFrom\bin\Debug\TheAdministratorFrom.exe.config
+D:\WorkSpaces\GBT\TheAdministratorFrom\bin\Debug\TheAdministratorFrom.exe
+D:\WorkSpaces\GBT\TheAdministratorFrom\bin\Debug\TheAdministratorFrom.pdb
+D:\WorkSpaces\GBT\TheAdministratorFrom\bin\Debug\Attribute.dll
+D:\WorkSpaces\GBT\TheAdministratorFrom\bin\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\GBT\TheAdministratorFrom\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\GBT\TheAdministratorFrom\bin\Debug\UIControl.dll
+D:\WorkSpaces\GBT\TheAdministratorFrom\bin\Debug\WpfCustomControlLibrary.dll
+D:\WorkSpaces\GBT\TheAdministratorFrom\bin\Debug\DataBaseInterface.dll
+D:\WorkSpaces\GBT\TheAdministratorFrom\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\GBT\TheAdministratorFrom\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\GBT\TheAdministratorFrom\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\GBT\TheAdministratorFrom\bin\Debug\Attribute.pdb
+D:\WorkSpaces\GBT\TheAdministratorFrom\bin\Debug\BusinessLogicLevel.pdb
+D:\WorkSpaces\GBT\TheAdministratorFrom\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\GBT\TheAdministratorFrom\bin\Debug\UIControl.pdb
+D:\WorkSpaces\GBT\TheAdministratorFrom\bin\Debug\WpfCustomControlLibrary.pdb
+D:\WorkSpaces\GBT\TheAdministratorFrom\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\GBT\TheAdministratorFrom\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\GBT\TheAdministratorFrom\bin\Debug\DatabaseConnection.pdb
+D:\WorkSpaces\GBT\TheAdministratorFrom\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\GBT\TheAdministratorFrom\obj\Debug\TheAdministratorFrom.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT\TheAdministratorFrom\obj\Debug\AccessConfiguration\Privilege.baml
+D:\WorkSpaces\GBT\TheAdministratorFrom\obj\Debug\AccessConfiguration\Users.baml
+D:\WorkSpaces\GBT\TheAdministratorFrom\obj\Debug\DataBases.baml
+D:\WorkSpaces\GBT\TheAdministratorFrom\obj\Debug\MainWindow.baml
+D:\WorkSpaces\GBT\TheAdministratorFrom\obj\Debug\AccessConfiguration\Privilege.g.cs
+D:\WorkSpaces\GBT\TheAdministratorFrom\obj\Debug\AccessConfiguration\Users.g.cs
+D:\WorkSpaces\GBT\TheAdministratorFrom\obj\Debug\DataBases.g.cs
+D:\WorkSpaces\GBT\TheAdministratorFrom\obj\Debug\MainWindow.g.cs
+D:\WorkSpaces\GBT\TheAdministratorFrom\obj\Debug\App.g.cs
+D:\WorkSpaces\GBT\TheAdministratorFrom\obj\Debug\TheAdministratorFrom_MarkupCompile.cache
+D:\WorkSpaces\GBT\TheAdministratorFrom\obj\Debug\TheAdministratorFrom.g.resources
+D:\WorkSpaces\GBT\TheAdministratorFrom\obj\Debug\TheAdministratorFrom.Properties.Resources.resources
+D:\WorkSpaces\GBT\TheAdministratorFrom\obj\Debug\TheAdministratorFrom.csproj.GenerateResource.Cache
+D:\WorkSpaces\GBT\TheAdministratorFrom\obj\Debug\TheAdministratorFrom.exe
+D:\WorkSpaces\GBT\TheAdministratorFrom\obj\Debug\TheAdministratorFrom.pdb
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\bin\Debug\TheAdministratorFrom.exe.config
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\bin\Debug\TheAdministratorFrom.exe
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\bin\Debug\TheAdministratorFrom.pdb
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\bin\Debug\Attribute.dll
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\bin\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\bin\Debug\UIControl.dll
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\bin\Debug\WpfCustomControlLibrary.dll
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\bin\Debug\DataBaseInterface.dll
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\bin\Debug\Attribute.pdb
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\bin\Debug\BusinessLogicLevel.pdb
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\bin\Debug\UIControl.pdb
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\bin\Debug\WpfCustomControlLibrary.pdb
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\bin\Debug\DatabaseConnection.pdb
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\obj\Debug\TheAdministratorFrom.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\obj\Debug\AccessConfiguration\Privilege.baml
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\obj\Debug\AccessConfiguration\Users.baml
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\obj\Debug\DataBases.baml
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\obj\Debug\MainWindow.baml
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\obj\Debug\AccessConfiguration\Privilege.g.cs
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\obj\Debug\AccessConfiguration\Users.g.cs
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\obj\Debug\DataBases.g.cs
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\obj\Debug\MainWindow.g.cs
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\obj\Debug\App.g.cs
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\obj\Debug\TheAdministratorFrom_MarkupCompile.cache
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\obj\Debug\TheAdministratorFrom.g.resources
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\obj\Debug\TheAdministratorFrom.Properties.Resources.resources
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\obj\Debug\TheAdministratorFrom.csproj.GenerateResource.Cache
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\obj\Debug\TheAdministratorFrom.exe
+D:\WorkSpaces\GBT尊宝电镀\TheAdministratorFrom\obj\Debug\TheAdministratorFrom.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\bin\Debug\TheAdministratorFrom.exe.config
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\bin\Debug\TheAdministratorFrom.exe
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\bin\Debug\TheAdministratorFrom.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\bin\Debug\Attribute.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\bin\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\bin\Debug\UIControl.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\bin\Debug\WpfCustomControlLibrary.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\bin\Debug\DataBaseInterface.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\bin\Debug\Attribute.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\bin\Debug\BusinessLogicLevel.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\bin\Debug\UIControl.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\bin\Debug\WpfCustomControlLibrary.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\bin\Debug\DatabaseConnection.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\obj\Debug\TheAdministratorFrom.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\obj\Debug\AccessConfiguration\Privilege.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\obj\Debug\AccessConfiguration\Users.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\obj\Debug\DataBases.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\obj\Debug\MainWindow.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\obj\Debug\AccessConfiguration\Privilege.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\obj\Debug\AccessConfiguration\Users.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\obj\Debug\DataBases.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\obj\Debug\MainWindow.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\obj\Debug\App.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\obj\Debug\TheAdministratorFrom_MarkupCompile.cache
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\obj\Debug\TheAdministratorFrom.g.resources
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\obj\Debug\TheAdministratorFrom.Properties.Resources.resources
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\obj\Debug\TheAdministratorFrom.csproj.GenerateResource.Cache
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\obj\Debug\TheAdministratorFrom.exe
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\obj\Debug\TheAdministratorFrom.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\TheAdministratorFrom\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\WorkSpaces\Management System\GBT\TheAdministratorFrom\bin\Debug\Microsoft.ReportViewer.WinForms.dll

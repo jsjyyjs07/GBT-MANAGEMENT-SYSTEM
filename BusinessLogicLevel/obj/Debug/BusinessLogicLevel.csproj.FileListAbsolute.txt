@@ -1,0 +1,88 @@
+E:\WorkSpaces\管理系统\GBT\BusinessLogicLevel\bin\Debug\BusinessLogicLevel.dll
+E:\WorkSpaces\管理系统\GBT\BusinessLogicLevel\bin\Debug\BusinessLogicLevel.pdb
+E:\WorkSpaces\管理系统\GBT\BusinessLogicLevel\obj\Debug\BusinessLogicLevel.dll
+E:\WorkSpaces\管理系统\GBT\BusinessLogicLevel\obj\Debug\BusinessLogicLevel.pdb
+E:\WorkSpaces\管理系统\GBT\BusinessLogicLevel\bin\Debug\DatabaseConnection.dll
+E:\WorkSpaces\管理系统\GBT\BusinessLogicLevel\bin\Debug\DatabaseConnection.pdb
+E:\WorkSpaces\管理系统\GBT\BusinessLogicLevel\obj\Debug\BusinessLogicLevel.csprojResolveAssemblyReference.cache
+E:\WorkSpaces\管理系统\GBT\BusinessLogicLevel\bin\Debug\Attribute.dll
+E:\WorkSpaces\管理系统\GBT\BusinessLogicLevel\bin\Debug\Attribute.pdb
+E:\WorkSpaces\管理系统\GBT\BusinessLogicLevel\bin\Debug\PerformanceFunction.dll
+E:\WorkSpaces\管理系统\GBT\BusinessLogicLevel\bin\Debug\WindowsAPI.dll
+E:\WorkSpaces\管理系统\GBT\BusinessLogicLevel\bin\Debug\PerformanceFunction.pdb
+E:\WorkSpaces\管理系统\GBT\BusinessLogicLevel\bin\Debug\WindowsAPI.pdb
+E:\WorkSpaces\管理系统\GBT\BusinessLogicLevel\bin\Debug\GeneralDataOperation.dll
+E:\WorkSpaces\管理系统\GBT\BusinessLogicLevel\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\Management System\GBT\BusinessLogicLevel\bin\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\Management System\GBT\BusinessLogicLevel\bin\Debug\BusinessLogicLevel.pdb
+D:\WorkSpaces\Management System\GBT\BusinessLogicLevel\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\Management System\GBT\BusinessLogicLevel\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\Management System\GBT\BusinessLogicLevel\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\Management System\GBT\BusinessLogicLevel\bin\Debug\Attribute.dll
+D:\WorkSpaces\Management System\GBT\BusinessLogicLevel\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\Management System\GBT\BusinessLogicLevel\bin\Debug\DatabaseConnection.pdb
+D:\WorkSpaces\Management System\GBT\BusinessLogicLevel\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\Management System\GBT\BusinessLogicLevel\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\Management System\GBT\BusinessLogicLevel\bin\Debug\Attribute.pdb
+D:\WorkSpaces\Management System\GBT\BusinessLogicLevel\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\Management System\GBT\BusinessLogicLevel\obj\Debug\BusinessLogicLevel.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\Management System\GBT\BusinessLogicLevel\obj\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\Management System\GBT\BusinessLogicLevel\obj\Debug\BusinessLogicLevel.pdb
+E:\WorkSpaces\管理系统\GBT\BusinessLogicLevel\bin\Debug\DataBaseInterface.dll
+E:\WorkSpaces\管理系统\GBT\BusinessLogicLevel\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\Management System\GBT\BusinessLogicLevel\bin\Debug\DataBaseInterface.dll
+D:\WorkSpaces\Management System\GBT\BusinessLogicLevel\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\GBT\BusinessLogicLevel\bin\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\GBT\BusinessLogicLevel\bin\Debug\BusinessLogicLevel.pdb
+D:\WorkSpaces\GBT\BusinessLogicLevel\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\GBT\BusinessLogicLevel\bin\Debug\DataBaseInterface.dll
+D:\WorkSpaces\GBT\BusinessLogicLevel\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\GBT\BusinessLogicLevel\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\GBT\BusinessLogicLevel\bin\Debug\Attribute.dll
+D:\WorkSpaces\GBT\BusinessLogicLevel\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\GBT\BusinessLogicLevel\bin\Debug\DatabaseConnection.pdb
+D:\WorkSpaces\GBT\BusinessLogicLevel\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\GBT\BusinessLogicLevel\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\GBT\BusinessLogicLevel\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\GBT\BusinessLogicLevel\bin\Debug\Attribute.pdb
+D:\WorkSpaces\GBT\BusinessLogicLevel\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\GBT\BusinessLogicLevel\obj\Debug\BusinessLogicLevel.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT\BusinessLogicLevel\obj\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\GBT\BusinessLogicLevel\obj\Debug\BusinessLogicLevel.pdb
+D:\WorkSpaces\GBT尊宝电镀\BusinessLogicLevel\bin\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\GBT尊宝电镀\BusinessLogicLevel\bin\Debug\BusinessLogicLevel.pdb
+D:\WorkSpaces\GBT尊宝电镀\BusinessLogicLevel\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\GBT尊宝电镀\BusinessLogicLevel\bin\Debug\DataBaseInterface.dll
+D:\WorkSpaces\GBT尊宝电镀\BusinessLogicLevel\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\GBT尊宝电镀\BusinessLogicLevel\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\GBT尊宝电镀\BusinessLogicLevel\bin\Debug\Attribute.dll
+D:\WorkSpaces\GBT尊宝电镀\BusinessLogicLevel\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\GBT尊宝电镀\BusinessLogicLevel\bin\Debug\DatabaseConnection.pdb
+D:\WorkSpaces\GBT尊宝电镀\BusinessLogicLevel\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\GBT尊宝电镀\BusinessLogicLevel\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\GBT尊宝电镀\BusinessLogicLevel\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\GBT尊宝电镀\BusinessLogicLevel\bin\Debug\Attribute.pdb
+D:\WorkSpaces\GBT尊宝电镀\BusinessLogicLevel\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\GBT尊宝电镀\BusinessLogicLevel\obj\Debug\BusinessLogicLevel.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT尊宝电镀\BusinessLogicLevel\obj\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\GBT尊宝电镀\BusinessLogicLevel\obj\Debug\BusinessLogicLevel.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\BusinessLogicLevel\bin\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\BusinessLogicLevel\bin\Debug\BusinessLogicLevel.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\BusinessLogicLevel\bin\Debug\Attribute.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\BusinessLogicLevel\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\BusinessLogicLevel\bin\Debug\DataBaseInterface.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\BusinessLogicLevel\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\BusinessLogicLevel\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\BusinessLogicLevel\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\BusinessLogicLevel\bin\Debug\Attribute.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\BusinessLogicLevel\bin\Debug\DatabaseConnection.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\BusinessLogicLevel\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\BusinessLogicLevel\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\BusinessLogicLevel\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\BusinessLogicLevel\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\BusinessLogicLevel\obj\Debug\BusinessLogicLevel.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT尊宝电镀 - Copy\BusinessLogicLevel\obj\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\BusinessLogicLevel\obj\Debug\BusinessLogicLevel.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\BusinessLogicLevel\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\BusinessLogicLevel\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\WorkSpaces\Management System\GBT\BusinessLogicLevel\bin\Debug\Microsoft.ReportViewer.WinForms.dll

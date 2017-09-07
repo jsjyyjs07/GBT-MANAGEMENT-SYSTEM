@@ -1,0 +1,68 @@
+E:\WorkSpaces\管理系统\GBT\GeneralDataOperation\bin\Debug\GeneralDataOperation.dll
+E:\WorkSpaces\管理系统\GBT\GeneralDataOperation\bin\Debug\GeneralDataOperation.pdb
+E:\WorkSpaces\管理系统\GBT\GeneralDataOperation\bin\Debug\DatabaseConnection.dll
+E:\WorkSpaces\管理系统\GBT\GeneralDataOperation\bin\Debug\PerformanceFunction.dll
+E:\WorkSpaces\管理系统\GBT\GeneralDataOperation\bin\Debug\Attribute.dll
+E:\WorkSpaces\管理系统\GBT\GeneralDataOperation\bin\Debug\WindowsAPI.dll
+E:\WorkSpaces\管理系统\GBT\GeneralDataOperation\bin\Debug\DatabaseConnection.pdb
+E:\WorkSpaces\管理系统\GBT\GeneralDataOperation\bin\Debug\PerformanceFunction.pdb
+E:\WorkSpaces\管理系统\GBT\GeneralDataOperation\bin\Debug\Attribute.pdb
+E:\WorkSpaces\管理系统\GBT\GeneralDataOperation\bin\Debug\WindowsAPI.pdb
+E:\WorkSpaces\管理系统\GBT\GeneralDataOperation\obj\Debug\GeneralDataOperation.csprojResolveAssemblyReference.cache
+E:\WorkSpaces\管理系统\GBT\GeneralDataOperation\obj\Debug\GeneralDataOperation.dll
+E:\WorkSpaces\管理系统\GBT\GeneralDataOperation\obj\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\Management System\GBT\GeneralDataOperation\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\Management System\GBT\GeneralDataOperation\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\Management System\GBT\GeneralDataOperation\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\Management System\GBT\GeneralDataOperation\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\Management System\GBT\GeneralDataOperation\bin\Debug\Attribute.dll
+D:\WorkSpaces\Management System\GBT\GeneralDataOperation\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\Management System\GBT\GeneralDataOperation\bin\Debug\DatabaseConnection.pdb
+D:\WorkSpaces\Management System\GBT\GeneralDataOperation\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\Management System\GBT\GeneralDataOperation\bin\Debug\Attribute.pdb
+D:\WorkSpaces\Management System\GBT\GeneralDataOperation\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\Management System\GBT\GeneralDataOperation\obj\Debug\GeneralDataOperation.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\Management System\GBT\GeneralDataOperation\obj\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\Management System\GBT\GeneralDataOperation\obj\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\GBT\GeneralDataOperation\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\GBT\GeneralDataOperation\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\GBT\GeneralDataOperation\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\GBT\GeneralDataOperation\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\GBT\GeneralDataOperation\bin\Debug\Attribute.dll
+D:\WorkSpaces\GBT\GeneralDataOperation\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\GBT\GeneralDataOperation\bin\Debug\DatabaseConnection.pdb
+D:\WorkSpaces\GBT\GeneralDataOperation\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\GBT\GeneralDataOperation\bin\Debug\Attribute.pdb
+D:\WorkSpaces\GBT\GeneralDataOperation\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\GBT\GeneralDataOperation\obj\Debug\GeneralDataOperation.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT\GeneralDataOperation\obj\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\GBT\GeneralDataOperation\obj\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\GBT尊宝电镀\GeneralDataOperation\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\GBT尊宝电镀\GeneralDataOperation\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\GBT尊宝电镀\GeneralDataOperation\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\GBT尊宝电镀\GeneralDataOperation\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\GBT尊宝电镀\GeneralDataOperation\bin\Debug\Attribute.dll
+D:\WorkSpaces\GBT尊宝电镀\GeneralDataOperation\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\GBT尊宝电镀\GeneralDataOperation\bin\Debug\DatabaseConnection.pdb
+D:\WorkSpaces\GBT尊宝电镀\GeneralDataOperation\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\GBT尊宝电镀\GeneralDataOperation\bin\Debug\Attribute.pdb
+D:\WorkSpaces\GBT尊宝电镀\GeneralDataOperation\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\GBT尊宝电镀\GeneralDataOperation\obj\Debug\GeneralDataOperation.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT尊宝电镀\GeneralDataOperation\obj\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\GBT尊宝电镀\GeneralDataOperation\obj\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralDataOperation\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralDataOperation\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralDataOperation\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralDataOperation\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralDataOperation\bin\Debug\Attribute.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralDataOperation\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralDataOperation\bin\Debug\DatabaseConnection.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralDataOperation\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralDataOperation\bin\Debug\Attribute.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralDataOperation\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralDataOperation\obj\Debug\GeneralDataOperation.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralDataOperation\obj\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralDataOperation\obj\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralDataOperation\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralDataOperation\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\WorkSpaces\Management System\GBT\GeneralDataOperation\bin\Debug\Microsoft.ReportViewer.WinForms.dll

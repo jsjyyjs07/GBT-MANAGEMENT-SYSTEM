@@ -1,0 +1,189 @@
+E:\WorkSpace\管理系统\GBT\PersonnelInformationManagementSystem\bin\Debug\PersonnelInformationManagementSystem.exe.config
+E:\WorkSpace\管理系统\GBT\PersonnelInformationManagementSystem\bin\Debug\PersonnelInformationManagementSystem.exe
+E:\WorkSpace\管理系统\GBT\PersonnelInformationManagementSystem\bin\Debug\PersonnelInformationManagementSystem.pdb
+E:\WorkSpace\管理系统\GBT\PersonnelInformationManagementSystem\obj\Debug\MainWindow.baml
+E:\WorkSpace\管理系统\GBT\PersonnelInformationManagementSystem\obj\Debug\MainWindow.g.cs
+E:\WorkSpace\管理系统\GBT\PersonnelInformationManagementSystem\obj\Debug\App.g.cs
+E:\WorkSpace\管理系统\GBT\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem_MarkupCompile.cache
+E:\WorkSpace\管理系统\GBT\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.g.resources
+E:\WorkSpace\管理系统\GBT\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.Properties.Resources.resources
+E:\WorkSpace\管理系统\GBT\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.csproj.GenerateResource.Cache
+E:\WorkSpace\管理系统\GBT\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.exe
+E:\WorkSpace\管理系统\GBT\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.pdb
+E:\WorkSpace\管理系统\GBT\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.csprojResolveAssemblyReference.cache
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\bin\Debug\PersonnelInformationManagementSystem.exe.config
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\bin\Debug\PersonnelInformationManagementSystem.exe
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\bin\Debug\PersonnelInformationManagementSystem.pdb
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\obj\Debug\EmployeeInfo.baml
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\obj\Debug\MainWindow.baml
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\obj\Debug\EmployeeInfo.g.cs
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\obj\Debug\MainWindow.g.cs
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\obj\Debug\App.g.cs
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem_MarkupCompile.cache
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.g.resources
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.Properties.Resources.resources
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.csproj.GenerateResource.Cache
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.exe
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.pdb
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\obj\Debug\RdlCompile.cache
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\obj\Debug\RdlCompile.compiled
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.csprojResolveAssemblyReference.cache
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\bin\Debug\UIControl.dll
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\bin\Debug\UIControl.pdb
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\bin\Debug\Attribute.dll
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\bin\Debug\Attribute.pdb
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\bin\Debug\WindowsAPI.dll
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\bin\Debug\PersonnelInformationManagementSystem.exe.config
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\bin\Debug\PersonnelInformationManagementSystem.exe
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\bin\Debug\PersonnelInformationManagementSystem.pdb
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\bin\Debug\UIControl.dll
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\bin\Debug\Attribute.dll
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\bin\Debug\UIControl.pdb
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\bin\Debug\Attribute.pdb
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\obj\Debug\EmployeeInfo.baml
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\obj\Debug\MainWindow.baml
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\obj\Debug\EmployeeInfo.g.cs
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\obj\Debug\MainWindow.g.cs
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\obj\Debug\App.g.cs
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem_MarkupCompile.cache
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.g.resources
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.Properties.Resources.resources
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.csproj.GenerateResource.Cache
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.exe
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.pdb
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\bin\Debug\WpfCustomControlLibrary.dll
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\bin\Debug\PerformanceFunction.dll
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\bin\Debug\BusinessLogicLevel.dll
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\bin\Debug\DataBaseInterface.dll
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\bin\Debug\GeneralDataOperation.dll
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\bin\Debug\DatabaseConnection.dll
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\bin\Debug\WpfCustomControlLibrary.pdb
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\bin\Debug\PerformanceFunction.pdb
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\bin\Debug\BusinessLogicLevel.pdb
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\bin\Debug\DataBaseInterface.pdb
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\bin\Debug\GeneralDataOperation.pdb
+E:\WorkSpaces\管理系统\GBT\PersonnelInformationManagementSystem\bin\Debug\DatabaseConnection.pdb
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\bin\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\bin\Debug\WpfCustomControlLibrary.dll
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\bin\Debug\DataBaseInterface.dll
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\bin\Debug\BusinessLogicLevel.pdb
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\bin\Debug\WpfCustomControlLibrary.pdb
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\bin\Debug\DatabaseConnection.pdb
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\bin\Debug\PersonnelInformationManagementSystem.exe.config
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\bin\Debug\PersonnelInformationManagementSystem.exe
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\bin\Debug\PersonnelInformationManagementSystem.pdb
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\bin\Debug\Attribute.dll
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\bin\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\bin\Debug\UIControl.dll
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\bin\Debug\WpfCustomControlLibrary.dll
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\bin\Debug\DataBaseInterface.dll
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\bin\Debug\Attribute.pdb
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\bin\Debug\BusinessLogicLevel.pdb
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\bin\Debug\UIControl.pdb
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\bin\Debug\WpfCustomControlLibrary.pdb
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\bin\Debug\DatabaseConnection.pdb
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\obj\Debug\EmployeeInfo.baml
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\obj\Debug\MainWindow.baml
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\obj\Debug\EmployeeInfo.g.cs
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\obj\Debug\MainWindow.g.cs
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\obj\Debug\App.g.cs
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem_MarkupCompile.cache
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.g.resources
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.Properties.Resources.resources
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.csproj.GenerateResource.Cache
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\obj\Debug\RdlCompile.cache
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\obj\Debug\RdlCompile.compiled
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.exe
+D:\WorkSpaces\GBT\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.pdb
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\bin\Debug\PersonnelInformationManagementSystem.exe.config
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\bin\Debug\PersonnelInformationManagementSystem.exe
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\bin\Debug\PersonnelInformationManagementSystem.pdb
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\bin\Debug\Attribute.dll
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\bin\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\bin\Debug\UIControl.dll
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\bin\Debug\WpfCustomControlLibrary.dll
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\bin\Debug\DataBaseInterface.dll
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\bin\Debug\Attribute.pdb
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\bin\Debug\BusinessLogicLevel.pdb
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\bin\Debug\UIControl.pdb
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\bin\Debug\WpfCustomControlLibrary.pdb
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\bin\Debug\DatabaseConnection.pdb
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\obj\Debug\EmployeeInfo.baml
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\obj\Debug\MainWindow.baml
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\obj\Debug\EmployeeInfo.g.cs
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\obj\Debug\MainWindow.g.cs
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\obj\Debug\App.g.cs
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem_MarkupCompile.cache
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.g.resources
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.Properties.Resources.resources
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.csproj.GenerateResource.Cache
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\obj\Debug\RdlCompile.cache
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\obj\Debug\RdlCompile.compiled
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.exe
+D:\WorkSpaces\GBT尊宝电镀\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\bin\Debug\PersonnelInformationManagementSystem.exe.config
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\bin\Debug\PersonnelInformationManagementSystem.exe
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\bin\Debug\PersonnelInformationManagementSystem.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\bin\Debug\Attribute.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\bin\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\bin\Debug\UIControl.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\bin\Debug\WpfCustomControlLibrary.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\bin\Debug\DataBaseInterface.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\bin\Debug\Attribute.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\bin\Debug\BusinessLogicLevel.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\bin\Debug\UIControl.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\bin\Debug\WpfCustomControlLibrary.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\bin\Debug\DatabaseConnection.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\obj\Debug\EmployeeInfo.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\obj\Debug\MainWindow.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\obj\Debug\EmployeeInfo.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\obj\Debug\MainWindow.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\obj\Debug\App.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem_MarkupCompile.cache
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.g.resources
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.Properties.Resources.resources
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.csproj.GenerateResource.Cache
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\obj\Debug\RdlCompile.cache
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\obj\Debug\RdlCompile.compiled
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.exe
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\obj\Debug\PersonnelInformationManagementSystem.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\PersonnelInformationManagementSystem\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\WorkSpaces\Management System\GBT\PersonnelInformationManagementSystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll

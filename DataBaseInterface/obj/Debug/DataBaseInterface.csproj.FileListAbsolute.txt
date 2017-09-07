@@ -1,0 +1,20 @@
+E:\WorkSpaces\管理系统\GBT\DataBaseInterface\bin\Debug\DataBaseInterface.dll
+E:\WorkSpaces\管理系统\GBT\DataBaseInterface\bin\Debug\DataBaseInterface.pdb
+E:\WorkSpaces\管理系统\GBT\DataBaseInterface\obj\Debug\DataBaseInterface.dll
+E:\WorkSpaces\管理系统\GBT\DataBaseInterface\obj\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\Management System\GBT\DataBaseInterface\bin\Debug\DataBaseInterface.dll
+D:\WorkSpaces\Management System\GBT\DataBaseInterface\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\Management System\GBT\DataBaseInterface\obj\Debug\DataBaseInterface.dll
+D:\WorkSpaces\Management System\GBT\DataBaseInterface\obj\Debug\DataBaseInterface.pdb
+E:\WorkSpaces\管理系统\GBT\DataBaseInterface\obj\Debug\DataBaseInterface.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT尊宝电镀\DataBaseInterface\bin\Debug\DataBaseInterface.dll
+D:\WorkSpaces\GBT尊宝电镀\DataBaseInterface\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\GBT尊宝电镀\DataBaseInterface\obj\Debug\DataBaseInterface.dll
+D:\WorkSpaces\GBT尊宝电镀\DataBaseInterface\obj\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\GBT尊宝电镀\DataBaseInterface\obj\Debug\DataBaseInterface.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT尊宝电镀 - Copy\DataBaseInterface\bin\Debug\DataBaseInterface.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\DataBaseInterface\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\DataBaseInterface\obj\Debug\DataBaseInterface.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\DataBaseInterface\obj\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\DataBaseInterface\obj\Debug\DataBaseInterface.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\Management System\GBT\DataBaseInterface\obj\Debug\DataBaseInterface.csprojResolveAssemblyReference.cache

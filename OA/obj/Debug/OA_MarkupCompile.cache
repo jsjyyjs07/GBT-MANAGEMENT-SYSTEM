@@ -1,0 +1,20 @@
+﻿OA
+
+
+winexe
+C#
+.cs
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\
+OA
+none
+false
+DEBUG;TRACE
+D:\WorkSpaces\Management System\GBT\OA\App.xaml
+221048797668
+
+29689658735
+23-401479164
+AdministrationOfNetworks\BGInfoTable.xaml;AdministrationOfNetworks\MaterialRequisition.xaml;BasicInformation\Company.xaml;BasicInformation\Department.xaml;BasicInformation\Product.xaml;BasicInformation\Suppliers.xaml;BasicInformation\SuppliersType.xaml;BasicInformation\Unit.xaml;InvoiceManage\Color.xaml;InvoiceManage\Customer.xaml;InvoiceManage\InviceDetail.xaml;InvoiceManage\Invoice.xaml;InvoiceManage\InvoicePrintPreview.xaml;InvoiceManage\Process.xaml;InvoiceManage\ShipOrder.xaml;InvoiceManage\ShipPrintPreview.xaml;InvoiceManage\StockIn.xaml;InvoiceManage\StockOut.xaml;InvoiceManage\StockOutPrintPreview.xaml;InvoiceManage\WareHouse.xaml;MainWindow.xaml;StockManagement\StockIn.xaml;
+
+False
+

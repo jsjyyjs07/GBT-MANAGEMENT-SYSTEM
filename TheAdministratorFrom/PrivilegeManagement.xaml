@@ -1,0 +1,16 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:WpfCustomControlLibrary="clr-namespace:WpfCustomControlLibrary;assembly=WpfCustomControlLibrary" x:Name="winPrivilege" x:Class="TheAdministratorFrom.PrivilegeManagement"
+        Title="PrivilegeManagement" Height="600" Width="800" Closing="winPrivilege_Closing">
+    <Window.Background>
+        <SolidColorBrush Color="#FF78E460"/>
+    </Window.Background>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <WpfCustomControlLibrary:ToolBarAdvanced x:Name="toolBarPrivilege" Margin="0,0,0,0"/>
+    </Grid>
+</Window>

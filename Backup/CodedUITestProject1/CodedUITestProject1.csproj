@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D293E733-7174-48FB-9451-7A5DF41F98E2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CodedUITestProject1</RootNamespace>
+    <AssemblyName>CodedUITestProject1</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+    <ReferencePath>$(ProgramFiles)\Common Files\microsoft shared\VSTT\$(VisualStudioVersion)\UITestExtensionPackages</ReferencePath>
+    <IsCodedUITest>True</IsCodedUITest>
+    <TestProjectType>CodedUITest</TestProjectType>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="UIAutomationTypes" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <CodeAnalysisDependentAssemblyPaths Condition=" '$(VS100COMNTOOLS)' != '' " Include="$(VS100COMNTOOLS)..\IDE\PrivateAssemblies">
+      <Visible>False</Visible>
+    </CodeAnalysisDependentAssemblyPaths>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CodedUITest1.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Attribute\Attribute.csproj">
+      <Project>{d25d2e0d-69c7-4891-8ac8-d6be609d02bb}</Project>
+      <Name>Attribute</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BusinessLogicLevel\BusinessLogicLevel.csproj">
+      <Project>{463ac60c-4c7b-4fea-9eb1-b85bbd9f03c3}</Project>
+      <Name>BusinessLogicLevel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DatabaseConnection\DatabaseConnection.csproj">
+      <Project>{f0135355-658d-4c5b-b2b4-8bf0c6215e3a}</Project>
+      <Name>DatabaseConnection</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GBT\GBT.csproj">
+      <Project>{39642536-966b-4d99-8220-3a28bd14512a}</Project>
+      <Name>GBT</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GeneralDataOperation\GeneralDataOperation.csproj">
+      <Project>{ef7b784d-17a2-4e1e-98fb-dabe070d083c}</Project>
+      <Name>GeneralDataOperation</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GeneralUI\GeneralUI.csproj">
+      <Project>{f9170070-5506-44e0-8867-57584cf8a490}</Project>
+      <Name>GeneralUI</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GTB-UnitTestProject\GTB-UnitTestProject.csproj">
+      <Project>{70ca63f1-0bc5-4b5f-af56-3b1138043a77}</Project>
+      <Name>GTB-UnitTestProject</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PerformanceFunction\PerformanceFunction.csproj">
+      <Project>{9cdeda05-b049-4bec-a1aa-168bd8906c59}</Project>
+      <Name>PerformanceFunction</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PersonnelInformationManagementSystem\PersonnelInformationManagementSystem.csproj">
+      <Project>{8eef1793-59b4-4d8f-ac5a-edfaa9531660}</Project>
+      <Name>PersonnelInformationManagementSystem</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SystemInitialization\SystemInitialization.csproj">
+      <Project>{d87962a7-2429-4176-a48c-139523e1c2a1}</Project>
+      <Name>SystemInitialization</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TheAdministratorFrom\TheAdministratorFrom.csproj">
+      <Project>{db6993e8-ebde-4626-b215-3c14cbbfea14}</Project>
+      <Name>TheAdministratorFrom</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WindowsAPI\WindowsAPI.csproj">
+      <Project>{ecbd460b-89ce-43b7-82b9-32139d45b4f2}</Project>
+      <Name>WindowsAPI</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WpfCustomControlLibrary\WpfCustomControlLibrary.csproj">
+      <Project>{bcbb88ee-ae88-4a2f-9fe8-7b6042f5832f}</Project>
+      <Name>WpfCustomControlLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Choose>
+    <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
+      <ItemGroup>
+        <Reference Include="Microsoft.VisualStudio.QualityTools.CodedUITestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+        <Reference Include="Microsoft.VisualStudio.TestTools.UITest.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+        <Reference Include="Microsoft.VisualStudio.TestTools.UITest.Extension, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+        <Reference Include="Microsoft.VisualStudio.TestTools.UITesting, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+      </ItemGroup>
+    </When>
+  </Choose>
+  <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

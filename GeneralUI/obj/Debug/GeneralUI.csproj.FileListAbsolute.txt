@@ -1,0 +1,198 @@
+E:\WorkSpaces\管理系统\GBT\GeneralUI\bin\Debug\GeneralUI.exe.config
+E:\WorkSpaces\管理系统\GBT\GeneralUI\bin\Debug\GeneralUI.exe
+E:\WorkSpaces\管理系统\GBT\GeneralUI\bin\Debug\GeneralUI.pdb
+E:\WorkSpaces\管理系统\GBT\GeneralUI\obj\Debug\GeneralUI.csprojResolveAssemblyReference.cache
+E:\WorkSpaces\管理系统\GBT\GeneralUI\obj\Debug\MainWindow.baml
+E:\WorkSpaces\管理系统\GBT\GeneralUI\obj\Debug\MainWindow.g.cs
+E:\WorkSpaces\管理系统\GBT\GeneralUI\obj\Debug\App.g.cs
+E:\WorkSpaces\管理系统\GBT\GeneralUI\obj\Debug\GeneralUI_MarkupCompile.cache
+E:\WorkSpaces\管理系统\GBT\GeneralUI\obj\Debug\GeneralUI.g.resources
+E:\WorkSpaces\管理系统\GBT\GeneralUI\obj\Debug\GeneralUI.Properties.Resources.resources
+E:\WorkSpaces\管理系统\GBT\GeneralUI\obj\Debug\GeneralUI.csproj.GenerateResource.Cache
+E:\WorkSpaces\管理系统\GBT\GeneralUI\obj\Debug\GeneralUI.exe
+E:\WorkSpaces\管理系统\GBT\GeneralUI\obj\Debug\GeneralUI.pdb
+E:\WorkSpaces\管理系统\GBT\GeneralUI\obj\Debug\IntegrationQuery.baml
+E:\WorkSpaces\管理系统\GBT\GeneralUI\obj\Debug\ModuleBasicQuery.baml
+E:\WorkSpaces\管理系统\GBT\GeneralUI\obj\Debug\IntegrationQuery.g.cs
+E:\WorkSpaces\管理系统\GBT\GeneralUI\obj\Debug\ModuleBasicQuery.g.cs
+E:\WorkSpaces\管理系统\GBT\GeneralUI\bin\Debug\PerformanceFunction.dll
+E:\WorkSpaces\管理系统\GBT\GeneralUI\bin\Debug\WindowsAPI.dll
+E:\WorkSpaces\管理系统\GBT\GeneralUI\bin\Debug\Attribute.dll
+E:\WorkSpaces\管理系统\GBT\GeneralUI\bin\Debug\PerformanceFunction.pdb
+E:\WorkSpaces\管理系统\GBT\GeneralUI\bin\Debug\WindowsAPI.pdb
+E:\WorkSpaces\管理系统\GBT\GeneralUI\bin\Debug\Attribute.pdb
+E:\WorkSpaces\管理系统\GBT\GeneralUI\bin\Debug\GeneralDataOperation.dll
+E:\WorkSpaces\管理系统\GBT\GeneralUI\bin\Debug\GeneralDataOperation.pdb
+E:\WorkSpaces\管理系统\GBT\GeneralUI\bin\Debug\DatabaseConnection.dll
+E:\WorkSpaces\管理系统\GBT\GeneralUI\bin\Debug\DatabaseConnection.pdb
+E:\WorkSpaces\管理系统\GBT\GeneralUI\bin\Debug\BusinessLogicLevel.dll
+E:\WorkSpaces\管理系统\GBT\GeneralUI\bin\Debug\BusinessLogicLevel.pdb
+E:\WorkSpaces\管理系统\GBT\GeneralUI\bin\Debug\WpfCustomControlLibrary.dll
+E:\WorkSpaces\管理系统\GBT\GeneralUI\bin\Debug\WpfCustomControlLibrary.pdb
+E:\WorkSpaces\管理系统\GBT\GeneralUI\bin\Debug\PersonnelInformationManagementSystem.exe
+E:\WorkSpaces\管理系统\GBT\GeneralUI\bin\Debug\TheAdministratorFrom.exe
+E:\WorkSpaces\管理系统\GBT\GeneralUI\bin\Debug\PersonnelInformationManagementSystem.pdb
+E:\WorkSpaces\管理系统\GBT\GeneralUI\bin\Debug\TheAdministratorFrom.pdb
+E:\WorkSpaces\管理系统\GBT\GeneralUI\bin\Debug\UIControl.dll
+E:\WorkSpaces\管理系统\GBT\GeneralUI\bin\Debug\UIControl.pdb
+D:\WorkSpaces\Management System\GBT\GeneralUI\bin\Debug\GeneralUI.exe.config
+D:\WorkSpaces\Management System\GBT\GeneralUI\bin\Debug\GeneralUI.exe
+D:\WorkSpaces\Management System\GBT\GeneralUI\bin\Debug\GeneralUI.pdb
+D:\WorkSpaces\Management System\GBT\GeneralUI\bin\Debug\Attribute.dll
+D:\WorkSpaces\Management System\GBT\GeneralUI\bin\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\Management System\GBT\GeneralUI\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\Management System\GBT\GeneralUI\bin\Debug\PersonnelInformationManagementSystem.exe
+D:\WorkSpaces\Management System\GBT\GeneralUI\bin\Debug\TheAdministratorFrom.exe
+D:\WorkSpaces\Management System\GBT\GeneralUI\bin\Debug\UIControl.dll
+D:\WorkSpaces\Management System\GBT\GeneralUI\bin\Debug\WpfCustomControlLibrary.dll
+D:\WorkSpaces\Management System\GBT\GeneralUI\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\Management System\GBT\GeneralUI\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\Management System\GBT\GeneralUI\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\Management System\GBT\GeneralUI\bin\Debug\Attribute.pdb
+D:\WorkSpaces\Management System\GBT\GeneralUI\bin\Debug\BusinessLogicLevel.pdb
+D:\WorkSpaces\Management System\GBT\GeneralUI\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\Management System\GBT\GeneralUI\bin\Debug\PersonnelInformationManagementSystem.pdb
+D:\WorkSpaces\Management System\GBT\GeneralUI\bin\Debug\TheAdministratorFrom.pdb
+D:\WorkSpaces\Management System\GBT\GeneralUI\bin\Debug\UIControl.pdb
+D:\WorkSpaces\Management System\GBT\GeneralUI\bin\Debug\WpfCustomControlLibrary.pdb
+D:\WorkSpaces\Management System\GBT\GeneralUI\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\Management System\GBT\GeneralUI\bin\Debug\DatabaseConnection.pdb
+D:\WorkSpaces\Management System\GBT\GeneralUI\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\Management System\GBT\GeneralUI\obj\Debug\GeneralUI.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\Management System\GBT\GeneralUI\obj\Debug\IntegrationQuery.baml
+D:\WorkSpaces\Management System\GBT\GeneralUI\obj\Debug\MainWindow.baml
+D:\WorkSpaces\Management System\GBT\GeneralUI\obj\Debug\ModuleBasicQuery.baml
+D:\WorkSpaces\Management System\GBT\GeneralUI\obj\Debug\IntegrationQuery.g.cs
+D:\WorkSpaces\Management System\GBT\GeneralUI\obj\Debug\MainWindow.g.cs
+D:\WorkSpaces\Management System\GBT\GeneralUI\obj\Debug\ModuleBasicQuery.g.cs
+D:\WorkSpaces\Management System\GBT\GeneralUI\obj\Debug\App.g.cs
+D:\WorkSpaces\Management System\GBT\GeneralUI\obj\Debug\GeneralUI_MarkupCompile.cache
+D:\WorkSpaces\Management System\GBT\GeneralUI\obj\Debug\GeneralUI.g.resources
+D:\WorkSpaces\Management System\GBT\GeneralUI\obj\Debug\GeneralUI.Properties.Resources.resources
+D:\WorkSpaces\Management System\GBT\GeneralUI\obj\Debug\GeneralUI.csproj.GenerateResource.Cache
+D:\WorkSpaces\Management System\GBT\GeneralUI\obj\Debug\GeneralUI.exe
+D:\WorkSpaces\Management System\GBT\GeneralUI\obj\Debug\GeneralUI.pdb
+E:\WorkSpaces\管理系统\GBT\GeneralUI\bin\Debug\DataBaseInterface.dll
+E:\WorkSpaces\管理系统\GBT\GeneralUI\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\Management System\GBT\GeneralUI\bin\Debug\DataBaseInterface.dll
+D:\WorkSpaces\Management System\GBT\GeneralUI\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\GBT\GeneralUI\bin\Debug\GeneralUI.exe.config
+D:\WorkSpaces\GBT\GeneralUI\bin\Debug\GeneralUI.exe
+D:\WorkSpaces\GBT\GeneralUI\bin\Debug\GeneralUI.pdb
+D:\WorkSpaces\GBT\GeneralUI\bin\Debug\Attribute.dll
+D:\WorkSpaces\GBT\GeneralUI\bin\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\GBT\GeneralUI\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\GBT\GeneralUI\bin\Debug\PersonnelInformationManagementSystem.exe
+D:\WorkSpaces\GBT\GeneralUI\bin\Debug\TheAdministratorFrom.exe
+D:\WorkSpaces\GBT\GeneralUI\bin\Debug\UIControl.dll
+D:\WorkSpaces\GBT\GeneralUI\bin\Debug\WpfCustomControlLibrary.dll
+D:\WorkSpaces\GBT\GeneralUI\bin\Debug\DataBaseInterface.dll
+D:\WorkSpaces\GBT\GeneralUI\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\GBT\GeneralUI\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\GBT\GeneralUI\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\GBT\GeneralUI\bin\Debug\Attribute.pdb
+D:\WorkSpaces\GBT\GeneralUI\bin\Debug\BusinessLogicLevel.pdb
+D:\WorkSpaces\GBT\GeneralUI\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\GBT\GeneralUI\bin\Debug\PersonnelInformationManagementSystem.pdb
+D:\WorkSpaces\GBT\GeneralUI\bin\Debug\TheAdministratorFrom.pdb
+D:\WorkSpaces\GBT\GeneralUI\bin\Debug\UIControl.pdb
+D:\WorkSpaces\GBT\GeneralUI\bin\Debug\WpfCustomControlLibrary.pdb
+D:\WorkSpaces\GBT\GeneralUI\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\GBT\GeneralUI\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\GBT\GeneralUI\bin\Debug\DatabaseConnection.pdb
+D:\WorkSpaces\GBT\GeneralUI\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\GBT\GeneralUI\obj\Debug\GeneralUI.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT\GeneralUI\obj\Debug\IntegrationQuery.baml
+D:\WorkSpaces\GBT\GeneralUI\obj\Debug\MainWindow.baml
+D:\WorkSpaces\GBT\GeneralUI\obj\Debug\ModuleBasicQuery.baml
+D:\WorkSpaces\GBT\GeneralUI\obj\Debug\IntegrationQuery.g.cs
+D:\WorkSpaces\GBT\GeneralUI\obj\Debug\MainWindow.g.cs
+D:\WorkSpaces\GBT\GeneralUI\obj\Debug\ModuleBasicQuery.g.cs
+D:\WorkSpaces\GBT\GeneralUI\obj\Debug\App.g.cs
+D:\WorkSpaces\GBT\GeneralUI\obj\Debug\GeneralUI_MarkupCompile.cache
+D:\WorkSpaces\GBT\GeneralUI\obj\Debug\GeneralUI.g.resources
+D:\WorkSpaces\GBT\GeneralUI\obj\Debug\GeneralUI.Properties.Resources.resources
+D:\WorkSpaces\GBT\GeneralUI\obj\Debug\GeneralUI.csproj.GenerateResource.Cache
+D:\WorkSpaces\GBT\GeneralUI\obj\Debug\GeneralUI.exe
+D:\WorkSpaces\GBT\GeneralUI\obj\Debug\GeneralUI.pdb
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\bin\Debug\GeneralUI.exe.config
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\bin\Debug\GeneralUI.exe
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\bin\Debug\GeneralUI.pdb
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\bin\Debug\Attribute.dll
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\bin\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\bin\Debug\PersonnelInformationManagementSystem.exe
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\bin\Debug\TheAdministratorFrom.exe
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\bin\Debug\UIControl.dll
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\bin\Debug\WpfCustomControlLibrary.dll
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\bin\Debug\DataBaseInterface.dll
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\bin\Debug\Attribute.pdb
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\bin\Debug\BusinessLogicLevel.pdb
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\bin\Debug\PersonnelInformationManagementSystem.pdb
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\bin\Debug\TheAdministratorFrom.pdb
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\bin\Debug\UIControl.pdb
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\bin\Debug\WpfCustomControlLibrary.pdb
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\bin\Debug\DatabaseConnection.pdb
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\obj\Debug\GeneralUI.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\obj\Debug\IntegrationQuery.baml
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\obj\Debug\MainWindow.baml
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\obj\Debug\ModuleBasicQuery.baml
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\obj\Debug\IntegrationQuery.g.cs
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\obj\Debug\MainWindow.g.cs
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\obj\Debug\ModuleBasicQuery.g.cs
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\obj\Debug\App.g.cs
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\obj\Debug\GeneralUI_MarkupCompile.cache
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\obj\Debug\GeneralUI.g.resources
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\obj\Debug\GeneralUI.Properties.Resources.resources
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\obj\Debug\GeneralUI.csproj.GenerateResource.Cache
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\obj\Debug\GeneralUI.exe
+D:\WorkSpaces\GBT尊宝电镀\GeneralUI\obj\Debug\GeneralUI.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\bin\Debug\GeneralUI.exe.config
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\bin\Debug\GeneralUI.exe
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\bin\Debug\GeneralUI.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\bin\Debug\Attribute.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\bin\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\bin\Debug\PersonnelInformationManagementSystem.exe
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\bin\Debug\TheAdministratorFrom.exe
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\bin\Debug\UIControl.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\bin\Debug\WpfCustomControlLibrary.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\bin\Debug\DataBaseInterface.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\bin\Debug\Attribute.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\bin\Debug\BusinessLogicLevel.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\bin\Debug\PersonnelInformationManagementSystem.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\bin\Debug\TheAdministratorFrom.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\bin\Debug\UIControl.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\bin\Debug\WpfCustomControlLibrary.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\bin\Debug\DatabaseConnection.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\obj\Debug\GeneralUI.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\obj\Debug\IntegrationQuery.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\obj\Debug\MainWindow.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\obj\Debug\ModuleBasicQuery.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\obj\Debug\IntegrationQuery.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\obj\Debug\MainWindow.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\obj\Debug\ModuleBasicQuery.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\obj\Debug\App.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\obj\Debug\GeneralUI_MarkupCompile.cache
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\obj\Debug\GeneralUI.g.resources
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\obj\Debug\GeneralUI.Properties.Resources.resources
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\obj\Debug\GeneralUI.csproj.GenerateResource.Cache
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\obj\Debug\GeneralUI.exe
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\obj\Debug\GeneralUI.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\GeneralUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\WorkSpaces\Management System\GBT\GeneralUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll

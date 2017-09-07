@@ -1,0 +1,176 @@
+D:\WorkSpaces\Management System\GBT\Test\bin\Debug\Test.exe.config
+D:\WorkSpaces\Management System\GBT\Test\bin\Debug\Test.exe
+D:\WorkSpaces\Management System\GBT\Test\bin\Debug\Test.pdb
+D:\WorkSpaces\Management System\GBT\Test\bin\Debug\Attribute.dll
+D:\WorkSpaces\Management System\GBT\Test\bin\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\Management System\GBT\Test\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\Management System\GBT\Test\bin\Debug\DataBaseInterface.dll
+D:\WorkSpaces\Management System\GBT\Test\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\Management System\GBT\Test\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\Management System\GBT\Test\bin\Debug\SystemInitialization.dll
+D:\WorkSpaces\Management System\GBT\Test\bin\Debug\UIControl.dll
+D:\WorkSpaces\Management System\GBT\Test\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\Management System\GBT\Test\bin\Debug\WpfCustomControlLibrary.dll
+D:\WorkSpaces\Management System\GBT\Test\bin\Debug\Attribute.pdb
+D:\WorkSpaces\Management System\GBT\Test\bin\Debug\BusinessLogicLevel.pdb
+D:\WorkSpaces\Management System\GBT\Test\bin\Debug\DatabaseConnection.pdb
+D:\WorkSpaces\Management System\GBT\Test\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\Management System\GBT\Test\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\Management System\GBT\Test\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\Management System\GBT\Test\bin\Debug\SystemInitialization.pdb
+D:\WorkSpaces\Management System\GBT\Test\bin\Debug\UIControl.pdb
+D:\WorkSpaces\Management System\GBT\Test\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\Management System\GBT\Test\bin\Debug\WpfCustomControlLibrary.pdb
+D:\WorkSpaces\Management System\GBT\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\Management System\GBT\Test\obj\Debug\MainWindow.baml
+D:\WorkSpaces\Management System\GBT\Test\obj\Debug\MainWindow.g.cs
+D:\WorkSpaces\Management System\GBT\Test\obj\Debug\App.g.cs
+D:\WorkSpaces\Management System\GBT\Test\obj\Debug\Test_MarkupCompile.cache
+D:\WorkSpaces\Management System\GBT\Test\obj\Debug\Test.g.resources
+D:\WorkSpaces\Management System\GBT\Test\obj\Debug\Test.Properties.Resources.resources
+D:\WorkSpaces\Management System\GBT\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+D:\WorkSpaces\Management System\GBT\Test\obj\Debug\Test.exe
+D:\WorkSpaces\Management System\GBT\Test\obj\Debug\Test.pdb
+E:\WorkSpaces\管理系统\GBT\Test\bin\Debug\Test.exe.config
+E:\WorkSpaces\管理系统\GBT\Test\bin\Debug\Test.exe
+E:\WorkSpaces\管理系统\GBT\Test\bin\Debug\Test.pdb
+E:\WorkSpaces\管理系统\GBT\Test\bin\Debug\Attribute.dll
+E:\WorkSpaces\管理系统\GBT\Test\bin\Debug\BusinessLogicLevel.dll
+E:\WorkSpaces\管理系统\GBT\Test\bin\Debug\DatabaseConnection.dll
+E:\WorkSpaces\管理系统\GBT\Test\bin\Debug\DataBaseInterface.dll
+E:\WorkSpaces\管理系统\GBT\Test\bin\Debug\GeneralDataOperation.dll
+E:\WorkSpaces\管理系统\GBT\Test\bin\Debug\PerformanceFunction.dll
+E:\WorkSpaces\管理系统\GBT\Test\bin\Debug\SystemInitialization.dll
+E:\WorkSpaces\管理系统\GBT\Test\bin\Debug\UIControl.dll
+E:\WorkSpaces\管理系统\GBT\Test\bin\Debug\WindowsAPI.dll
+E:\WorkSpaces\管理系统\GBT\Test\bin\Debug\WpfCustomControlLibrary.dll
+E:\WorkSpaces\管理系统\GBT\Test\bin\Debug\Attribute.pdb
+E:\WorkSpaces\管理系统\GBT\Test\bin\Debug\BusinessLogicLevel.pdb
+E:\WorkSpaces\管理系统\GBT\Test\bin\Debug\DatabaseConnection.pdb
+E:\WorkSpaces\管理系统\GBT\Test\bin\Debug\DataBaseInterface.pdb
+E:\WorkSpaces\管理系统\GBT\Test\bin\Debug\GeneralDataOperation.pdb
+E:\WorkSpaces\管理系统\GBT\Test\bin\Debug\PerformanceFunction.pdb
+E:\WorkSpaces\管理系统\GBT\Test\bin\Debug\SystemInitialization.pdb
+E:\WorkSpaces\管理系统\GBT\Test\bin\Debug\UIControl.pdb
+E:\WorkSpaces\管理系统\GBT\Test\bin\Debug\WindowsAPI.pdb
+E:\WorkSpaces\管理系统\GBT\Test\bin\Debug\WpfCustomControlLibrary.pdb
+E:\WorkSpaces\管理系统\GBT\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\WorkSpaces\管理系统\GBT\Test\obj\Debug\MainWindow.baml
+E:\WorkSpaces\管理系统\GBT\Test\obj\Debug\MainWindow.g.cs
+E:\WorkSpaces\管理系统\GBT\Test\obj\Debug\App.g.cs
+E:\WorkSpaces\管理系统\GBT\Test\obj\Debug\Test_MarkupCompile.cache
+E:\WorkSpaces\管理系统\GBT\Test\obj\Debug\Test.g.resources
+E:\WorkSpaces\管理系统\GBT\Test\obj\Debug\Test.Properties.Resources.resources
+E:\WorkSpaces\管理系统\GBT\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\WorkSpaces\管理系统\GBT\Test\obj\Debug\Test.exe
+E:\WorkSpaces\管理系统\GBT\Test\obj\Debug\Test.pdb
+D:\WorkSpaces\GBT\Test\bin\Debug\Test.exe.config
+D:\WorkSpaces\GBT\Test\bin\Debug\Test.exe
+D:\WorkSpaces\GBT\Test\bin\Debug\Test.pdb
+D:\WorkSpaces\GBT\Test\bin\Debug\Attribute.dll
+D:\WorkSpaces\GBT\Test\bin\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\GBT\Test\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\GBT\Test\bin\Debug\DataBaseInterface.dll
+D:\WorkSpaces\GBT\Test\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\GBT\Test\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\GBT\Test\bin\Debug\SystemInitialization.dll
+D:\WorkSpaces\GBT\Test\bin\Debug\UIControl.dll
+D:\WorkSpaces\GBT\Test\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\GBT\Test\bin\Debug\WpfCustomControlLibrary.dll
+D:\WorkSpaces\GBT\Test\bin\Debug\Attribute.pdb
+D:\WorkSpaces\GBT\Test\bin\Debug\BusinessLogicLevel.pdb
+D:\WorkSpaces\GBT\Test\bin\Debug\DatabaseConnection.pdb
+D:\WorkSpaces\GBT\Test\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\GBT\Test\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\GBT\Test\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\GBT\Test\bin\Debug\SystemInitialization.pdb
+D:\WorkSpaces\GBT\Test\bin\Debug\UIControl.pdb
+D:\WorkSpaces\GBT\Test\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\GBT\Test\bin\Debug\WpfCustomControlLibrary.pdb
+D:\WorkSpaces\GBT\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT\Test\obj\Debug\MainWindow.baml
+D:\WorkSpaces\GBT\Test\obj\Debug\MainWindow.g.cs
+D:\WorkSpaces\GBT\Test\obj\Debug\App.g.cs
+D:\WorkSpaces\GBT\Test\obj\Debug\Test_MarkupCompile.cache
+D:\WorkSpaces\GBT\Test\obj\Debug\Test.g.resources
+D:\WorkSpaces\GBT\Test\obj\Debug\Test.Properties.Resources.resources
+D:\WorkSpaces\GBT\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+D:\WorkSpaces\GBT\Test\obj\Debug\Test.exe
+D:\WorkSpaces\GBT\Test\obj\Debug\Test.pdb
+D:\WorkSpaces\GBT尊宝电镀\Test\bin\Debug\Test.exe.config
+D:\WorkSpaces\GBT尊宝电镀\Test\bin\Debug\Test.exe
+D:\WorkSpaces\GBT尊宝电镀\Test\bin\Debug\Test.pdb
+D:\WorkSpaces\GBT尊宝电镀\Test\bin\Debug\Attribute.dll
+D:\WorkSpaces\GBT尊宝电镀\Test\bin\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\GBT尊宝电镀\Test\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\GBT尊宝电镀\Test\bin\Debug\DataBaseInterface.dll
+D:\WorkSpaces\GBT尊宝电镀\Test\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\GBT尊宝电镀\Test\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\GBT尊宝电镀\Test\bin\Debug\SystemInitialization.dll
+D:\WorkSpaces\GBT尊宝电镀\Test\bin\Debug\UIControl.dll
+D:\WorkSpaces\GBT尊宝电镀\Test\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\GBT尊宝电镀\Test\bin\Debug\WpfCustomControlLibrary.dll
+D:\WorkSpaces\GBT尊宝电镀\Test\bin\Debug\Attribute.pdb
+D:\WorkSpaces\GBT尊宝电镀\Test\bin\Debug\BusinessLogicLevel.pdb
+D:\WorkSpaces\GBT尊宝电镀\Test\bin\Debug\DatabaseConnection.pdb
+D:\WorkSpaces\GBT尊宝电镀\Test\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\GBT尊宝电镀\Test\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\GBT尊宝电镀\Test\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\GBT尊宝电镀\Test\bin\Debug\SystemInitialization.pdb
+D:\WorkSpaces\GBT尊宝电镀\Test\bin\Debug\UIControl.pdb
+D:\WorkSpaces\GBT尊宝电镀\Test\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\GBT尊宝电镀\Test\bin\Debug\WpfCustomControlLibrary.pdb
+D:\WorkSpaces\GBT尊宝电镀\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT尊宝电镀\Test\obj\Debug\MainWindow.baml
+D:\WorkSpaces\GBT尊宝电镀\Test\obj\Debug\MainWindow.g.cs
+D:\WorkSpaces\GBT尊宝电镀\Test\obj\Debug\App.g.cs
+D:\WorkSpaces\GBT尊宝电镀\Test\obj\Debug\Test_MarkupCompile.cache
+D:\WorkSpaces\GBT尊宝电镀\Test\obj\Debug\Test.g.resources
+D:\WorkSpaces\GBT尊宝电镀\Test\obj\Debug\Test.Properties.Resources.resources
+D:\WorkSpaces\GBT尊宝电镀\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+D:\WorkSpaces\GBT尊宝电镀\Test\obj\Debug\Test.exe
+D:\WorkSpaces\GBT尊宝电镀\Test\obj\Debug\Test.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\bin\Debug\Test.exe.config
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\bin\Debug\Test.exe
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\bin\Debug\Test.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\bin\Debug\Attribute.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\bin\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\bin\Debug\DataBaseInterface.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\bin\Debug\SystemInitialization.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\bin\Debug\UIControl.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\bin\Debug\WpfCustomControlLibrary.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\bin\Debug\Attribute.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\bin\Debug\BusinessLogicLevel.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\bin\Debug\DatabaseConnection.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\bin\Debug\SystemInitialization.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\bin\Debug\UIControl.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\bin\Debug\WpfCustomControlLibrary.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\obj\Debug\MainWindow.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\obj\Debug\MainWindow.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\obj\Debug\App.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\obj\Debug\Test_MarkupCompile.cache
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\obj\Debug\Test.g.resources
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\obj\Debug\Test.Properties.Resources.resources
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\obj\Debug\Test.exe
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\obj\Debug\Test.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\bin\Debug\DataConvert.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\bin\Debug\DataConvert.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\obj\Debug\TreeView.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\obj\Debug\TreeView.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Test\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\WorkSpaces\Management System\GBT\Test\bin\Debug\DataConvert.dll
+D:\WorkSpaces\Management System\GBT\Test\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\WorkSpaces\Management System\GBT\Test\bin\Debug\DataConvert.pdb
+D:\WorkSpaces\Management System\GBT\Test\obj\Debug\TreeView.baml
+D:\WorkSpaces\Management System\GBT\Test\obj\Debug\TreeView.g.cs

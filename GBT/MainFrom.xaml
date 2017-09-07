@@ -1,0 +1,158 @@
+﻿<Window x:Name="MainFrom" x:Class="GBT.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:wf="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms"
+        Title="GBT MANAGEMENT SYSTEM" Height="800" Width="300" Background="#FFB8F8B8" Closing="MainFrom_Closing" MinWidth="300" MinHeight="600" Activated="MainFrom_Activated">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="200*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="120"/>
+            <RowDefinition Height="23"/>
+            <RowDefinition/>
+            <RowDefinition Height="28"/>
+        </Grid.RowDefinitions>
+        <TabControl Grid.Row="2" Background="Transparent" Grid.ColumnSpan="2">
+            <!--<TabItem x:Name="tbiIM" Header="IM">
+                <Grid>
+                    <TreeView Background="Transparent">
+                        
+                    </TreeView>
+                </Grid>
+            </TabItem>-->
+            <TabItem x:Name="tiItem" Header="项目">
+                <TabItem.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="White" Offset="0.008"/>
+                        <GradientStop Offset="1"/>
+                    </LinearGradientBrush>
+                </TabItem.Background>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.Background>
+                        <SolidColorBrush Color="#FFE5E5E5" Opacity="0"/>
+                    </Grid.Background>
+                    <TreeView x:Name="tvItem" FontSize="16" MouseDoubleClick="tvItem_MouseDoubleClick">
+                        <TreeView.Background>
+                            <SolidColorBrush Color="White" Opacity="0"/>
+                        </TreeView.Background>
+                        <TreeViewItem Header="OA系统菜单">
+                            <TreeViewItem Header="基础信息">
+                                <TreeViewItem x:Name="tviCompany" Header="公司信息" MouseDoubleClick="tviCompany_MouseDoubleClick"/>
+                                <TreeViewItem x:Name="tviDepartment" Header="部门信息" MouseDoubleClick="tviDepartment_MouseDoubleClick"/>
+                                <TreeViewItem x:Name="tviUnit" Header="单位信息" MouseDoubleClick="tviUnit_MouseDoubleClick"/>
+                                <TreeViewItem x:Name="tviSuppliersType" Header="供应商类型" MouseDoubleClick="tviSuppliersType_MouseDoubleClick"/>
+                                <TreeViewItem x:Name="tviSuppliers" Header="供应商信息" MouseDoubleClick="tviSuppliers_MouseDoubleClick"/>
+                                <TreeViewItem x:Name="tviProduct" Header="产品信息" MouseDoubleClick="tviProduct_MouseDoubleClick"/>
+                            </TreeViewItem>
+                            <TreeViewItem Header="采购管理">
+                                <TreeViewItem x:Name="tviSubscribe" Header="申购单" MouseDoubleClick="tviSubscribe_MouseDoubleClick"/>
+                                <TreeViewItem x:Name="tviSubscribeDetail" Header="申购明细查询" MouseDoubleClick="tviSubscribeDetail_MouseDoubleClick"/>
+                            </TreeViewItem>
+                            <TreeViewItem Header="网络管理">
+                                <TreeViewItem x:Name="tviBGInfoTable" Header="电脑状态监控" MouseDoubleClick="tviBGInfoTable_MouseDoubleClick"/>
+                                <TreeViewItem x:Name="tviMaterialRequisition" Header="网络物品领用单" MouseDoubleClick="tviMaterialRequisition_MouseDoubleClick"/>
+                                <TreeViewItem x:Name="tviSearchIP" Header="IP地域查询"/>
+                                <TreeViewItem x:Name="tviPing" Header="Ping测试"/>
+                            </TreeViewItem>
+                            <TreeViewItem Header="库存管理">
+                                <TreeViewItem x:Name="tviStock" Header="库存查询"/>
+                                <TreeViewItem Header="入库管理">
+                                    <TreeViewItem x:Name="tviPutInStock" Header="入库单" MouseDoubleClick="tviPutInStock_MouseDoubleClick"/>
+                                    <TreeViewItem x:Name="tviInputPutInStockInfo" Header="入库资料导入"/>
+                                </TreeViewItem>
+                                <TreeViewItem Header="出库管理">
+                                    <TreeViewItem x:Name="tviPutOutStock" Header="出库单"/>
+                                </TreeViewItem>
+                            </TreeViewItem>
+                            <!--<TreeViewItem Header="尊宝电镀">
+                                <TreeViewItem Header="开票管理">
+                                    <TreeViewItem Header="收货管理">
+                                        <TreeViewItem x:Name="tviInvoice" Header="收货单" MouseDoubleClick="tviInvoice_MouseDoubleClick" />
+                                        <TreeViewItem x:Name="tviInvoiceDetail" Header="收货明细" MouseDoubleClick="tviInvoiceDetail_MouseDoubleClick"/>
+                                    </TreeViewItem>
+                                    <TreeViewItem Header="发货管理">
+                                        <TreeViewItem x:Name="tviShipOrder" Header="发货单" MouseDoubleClick="tviShipOrder_MouseDoubleClick"/>
+                                        <TreeViewItem x:Name="tviShipOrderDetail" Header="发货明细" MouseDoubleClick="tviShipOrderDetail_MouseDoubleClick"/>
+                                    </TreeViewItem>
+                                    <TreeViewItem Header="基础资料">
+                                        <TreeViewItem x:Name="tviCustomer" Header="客户信息" MouseDoubleClick="tviCustomer_MouseDoubleClick"/>
+                                        <TreeViewItem x:Name="tviColor" Header="颜色信息" MouseDoubleClick="tviColor_MouseDoubleClick" />
+                                        <TreeViewItem x:Name="tviProcess" Header="工序信息" MouseDoubleClick="tviProcess_MouseDoubleClick" />
+                                    </TreeViewItem>
+                                </TreeViewItem>
+                                <TreeViewItem Header="库存管理">
+                                    <TreeViewItem x:Name="tviStockIn" Header="入库单" MouseDoubleClick="tviStockIn_MouseDoubleClick" />
+                                    <TreeViewItem x:Name="tviStockInDetail" Header="入库明细" MouseDoubleClick="tviStockInDetail_MouseDoubleClick" />
+                                    <TreeViewItem x:Name="tviStockOut" Header="出库单" MouseDoubleClick="tviStockOut_MouseDoubleClick" />
+                                    <TreeViewItem x:Name="tviStockOutDetail" Header="出库明细" MouseDoubleClick="tviStockOutDetail_MouseDoubleClick" />
+                                    <TreeViewItem x:Name="tviWareHouse" Header="库存信息" MouseDoubleClick="tviWareHouse_MouseDoubleClick"/>
+                                </TreeViewItem>
+                            </TreeViewItem>-->
+                            <TreeViewItem Header="人事系统">
+                                <TreeViewItem Header="人事基础信息">
+                                    <TreeViewItem x:Name="tviEmployee" Header="员工信息" MouseDoubleClick="tviEmployee_MouseDoubleClick"/>
+                                </TreeViewItem>
+                            </TreeViewItem>
+                        </TreeViewItem>
+                    </TreeView>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="tiManager" Header="管理">
+                <TabItem.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                        <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                        <GradientStop Color="#00E5E5E5" Offset="1"/>
+                    </LinearGradientBrush>
+                </TabItem.Background>
+                <Grid>
+                    <Grid.Background>
+                        <SolidColorBrush Color="#FFE5E5E5" Opacity="0"/>
+                    </Grid.Background>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <TreeView x:Name="tvManager" FontSize="16">
+                        <TreeView.Background>
+                            <SolidColorBrush Color="White" Opacity="0"/>
+                        </TreeView.Background>
+                        <TreeViewItem Header="管理员菜单">
+                            <TreeViewItem Header="用户管理">
+                                <TreeViewItem x:Name="tviUser" Header="用户信息" MouseDoubleClick="tviUser_MouseDoubleClick"/>
+                            </TreeViewItem>
+                            <TreeViewItem Header="权限管理">
+                                <TreeViewItem x:Name="tviPrivilege" Header="权限基础信息" MouseDoubleClick="tviPrivilege_MouseDoubleClick"/>
+                            </TreeViewItem>
+                            <TreeViewItem x:Name="Test" Header="测试" MouseDoubleClick="Test_MouseDoubleClick"/>
+                        </TreeViewItem>
+                    </TreeView>
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <StatusBar Grid.Row="3" Grid.ColumnSpan="2">
+            <StatusBar.Background>
+                <SolidColorBrush Color="#FFF1EDED" Opacity="0"/>
+            </StatusBar.Background>
+        </StatusBar>
+        <Image x:Name="imgPhoto" Margin="0,0,0,5" Stretch="Fill" />
+        <ComboBox Grid.ColumnSpan="2" Grid.Row="1" IsEditable="True">
+            <ComboBox.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                    <GradientStop Color="#00E5E5E5" Offset="1"/>
+                </LinearGradientBrush>
+            </ComboBox.Background>
+        </ComboBox>
+        <Label x:Name="lblName" Content="" Grid.Column="1" Margin="10,2,10,0" Height="35" VerticalAlignment="Top" FontWeight="Bold" FontSize="18"/>
+        <TextBox x:Name="txtEditPM" Grid.Column="1" Margin="10,41,10,5" TextWrapping="Wrap" BorderThickness="0">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+
+    </Grid>
+</Window>

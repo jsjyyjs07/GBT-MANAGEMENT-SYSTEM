@@ -1,0 +1,41 @@
+D:\WorkSpaces\GBT尊宝电镀 - Copy\DataConvert\obj\Debug\DataConvert.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT尊宝电镀 - Copy\DataConvert\bin\Debug\DataConvert.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\DataConvert\bin\Debug\DataConvert.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\DataConvert\obj\Debug\DataConvert.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\DataConvert\obj\Debug\DataConvert.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\DataConvert\bin\Debug\Attribute.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\DataConvert\bin\Debug\Attribute.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\DataConvert\bin\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\DataConvert\bin\Debug\DataBaseInterface.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\DataConvert\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\DataConvert\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\DataConvert\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\DataConvert\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\DataConvert\bin\Debug\BusinessLogicLevel.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\DataConvert\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\DataConvert\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\DataConvert\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\DataConvert\bin\Debug\DatabaseConnection.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\DataConvert\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\DataConvert\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\DataConvert\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\WorkSpaces\Management System\GBT\DataConvert\bin\Debug\DataConvert.dll
+D:\WorkSpaces\Management System\GBT\DataConvert\bin\Debug\DataConvert.pdb
+D:\WorkSpaces\Management System\GBT\DataConvert\bin\Debug\Attribute.dll
+D:\WorkSpaces\Management System\GBT\DataConvert\bin\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\Management System\GBT\DataConvert\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\Management System\GBT\DataConvert\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\Management System\GBT\DataConvert\bin\Debug\DataBaseInterface.dll
+D:\WorkSpaces\Management System\GBT\DataConvert\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\Management System\GBT\DataConvert\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\WorkSpaces\Management System\GBT\DataConvert\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\Management System\GBT\DataConvert\bin\Debug\Attribute.pdb
+D:\WorkSpaces\Management System\GBT\DataConvert\bin\Debug\BusinessLogicLevel.pdb
+D:\WorkSpaces\Management System\GBT\DataConvert\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\Management System\GBT\DataConvert\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\Management System\GBT\DataConvert\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\Management System\GBT\DataConvert\bin\Debug\DatabaseConnection.pdb
+D:\WorkSpaces\Management System\GBT\DataConvert\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\Management System\GBT\DataConvert\obj\Debug\DataConvert.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\Management System\GBT\DataConvert\obj\Debug\DataConvert.dll
+D:\WorkSpaces\Management System\GBT\DataConvert\obj\Debug\DataConvert.pdb

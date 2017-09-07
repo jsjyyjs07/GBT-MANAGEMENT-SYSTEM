@@ -1,0 +1,234 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:WpfCustomControlLibrary="clr-namespace:WpfCustomControlLibrary;assembly=WpfCustomControlLibrary" x:Class="PersonnelInformationManagementSystem.EmployeeInfo"
+        Title="员工信息" Height="600" Width="800" Background="#FFB8F8B8" MinWidth="800" MinHeight="600" Icon="..\GBT.ico" Closing="Window_Closing" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="140"/>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="45"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+        <Border BorderBrush="#FF007E1D" BorderThickness="1" Margin="10,10,10,20" Grid.Row="1" Grid.RowSpan="4">
+            <Image x:Name="imgPhoto" Margin="0,0,0,0" Grid.RowSpan="4" Grid.Row="1" />
+        </Border>
+        <Label x:Name="lblEmployeeName" Content="姓名" Grid.Column="3" Grid.Row="1" FontSize="16"/>
+        <TextBox x:Name="txtEmployeeName" Grid.Column="4" Margin="10,4,10,10" Grid.Row="1" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" Text="{Binding Path=EmployeeName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="lblBillNo" Content="工号" Grid.Column="1" Grid.Row="1" RenderTransformOrigin="0.447,-0.692" FontSize="16"/>
+        <TextBox x:Name="txtBillNo" Grid.Column="2" Margin="10,4,10,10" Grid.Row="1" TextWrapping="Wrap" BorderBrush="#FF007E1D" BorderThickness="0,0,0,2" Text="{Binding Path=BillNo, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="lblBirthday" Content="生日" Grid.Column="5" Grid.Row="1" FontSize="16"/>
+        <DatePicker x:Name="dprBirthday" Grid.Column="6" Margin="10,4,10,10" Grid.Row="1" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" Foreground="Black" Text="{Binding Path=Birthday, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}">
+            <DatePicker.Background>
+                <SolidColorBrush Color="Transparent" Opacity="0"/>
+            </DatePicker.Background>
+        </DatePicker>
+        <Label x:Name="lblNation" Content="民族" Grid.Column="1" Grid.Row="2" FontSize="16"/>
+        <TextBox x:Name="txtNation" Grid.Column="2" Margin="10,4,10,10" Grid.Row="2" TextWrapping="Wrap" BorderBrush="#FF007E1D" BorderThickness="0,0,0,2" Text="{Binding Path=Nation, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="lblSex" Content="性别" Grid.Column="3" Grid.Row="2" FontSize="16"/>
+        <ComboBox x:Name="cobSex" Grid.Column="4" Margin="10,8,10,10" Grid.Row="2" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" Text="{Binding Path=Sex, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}">
+            <ComboBox.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                    <GradientStop Color="#00E5E5E5" Offset="1"/>
+                </LinearGradientBrush>
+            </ComboBox.Background>
+            <ComboBoxItem Content="男"/>
+            <ComboBoxItem Content="女"/>
+        </ComboBox>
+        <Label x:Name="lblIDCard" Content="身份证号码" Grid.Column="5" Grid.Row="2" FontSize="16"/>
+        <TextBox x:Name="txtIDCard" Grid.Column="6" Margin="10,4,10,10" Grid.Row="2" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" Text="{Binding Path=IDCard, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="lblIdCardIsValid" Content="身份证有效期" Grid.Column="1" Grid.Row="3" FontSize="16"/>
+        <DatePicker x:Name="dprIdCardIsValid" Grid.Column="2" Margin="10,4,10,10" Grid.Row="3" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" Foreground="Black" Text="{Binding Path=IdCardIsValid,Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}">
+            <DatePicker.Background>
+                <SolidColorBrush Color="Transparent" Opacity="0"/>
+            </DatePicker.Background>
+        </DatePicker>
+        <Label x:Name="lblEducation" Content="学历" Grid.Column="3" Grid.Row="3" FontSize="16"/>
+        <ComboBox x:Name="cobEducation" Grid.Column="4" Margin="10,8,10,10" Grid.Row="3" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" Text="{Binding Path=Education, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}">
+            <ComboBox.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                    <GradientStop Color="#00E5E5E5" Offset="1"/>
+                </LinearGradientBrush>
+            </ComboBox.Background>
+        </ComboBox>
+        <Label x:Name="lblMajor" Content="专业" Grid.Column="5" Grid.Row="3" FontSize="16"/>
+        <TextBox x:Name="txtMajor" Grid.Column="6" Margin="10,4,10,10" Grid.Row="3" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" Text="{Binding Path=Major, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <TabControl Grid.ColumnSpan="7" Grid.Row="6">
+            <TabControl.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TabControl.Background>
+            <TabItem Header="家庭成员">
+                <TabItem.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                        <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                        <GradientStop Color="#00E5E5E5" Offset="1"/>
+                    </LinearGradientBrush>
+                </TabItem.Background>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.Background>
+                        <SolidColorBrush Color="#FFE5E5E5" Opacity="0"/>
+                    </Grid.Background>
+                </Grid>
+            </TabItem>
+            <TabItem Header="毕业院校">
+                <TabItem.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                        <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                        <GradientStop Color="#00E5E5E5" Offset="1"/>
+                    </LinearGradientBrush>
+                </TabItem.Background>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.Background>
+                        <SolidColorBrush Color="#FFE5E5E5" Opacity="0"/>
+                    </Grid.Background>
+                </Grid>
+            </TabItem>
+            <TabItem Header="工作经历">
+                <TabItem.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                        <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                        <GradientStop Color="#00E5E5E5" Offset="1"/>
+                    </LinearGradientBrush>
+                </TabItem.Background>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.Background>
+                        <SolidColorBrush Color="#FFE5E5E5" Opacity="0"/>
+                    </Grid.Background>
+                </Grid>
+            </TabItem>
+            <TabItem Header="管理信息">
+                <TabItem.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                        <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                        <GradientStop Color="#00E5E5E5" Offset="1"/>
+                    </LinearGradientBrush>
+                </TabItem.Background>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="40"/>
+                        <RowDefinition Height="40"/>
+                        <RowDefinition Height="40"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="120"/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="120"/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.Background>
+                        <SolidColorBrush Color="#FFE5E5E5" Opacity="0"/>
+                    </Grid.Background>
+                    <Label x:Name="lblCreater" Content="创建人" FontSize="16"/>
+                    <Label x:Name="lblModifier" Content="修改人" FontSize="16" Grid.Row="1"/>
+                    <Label x:Name="lblCreaterDate" Content="创建日期" FontSize="16" Grid.Column="2"/>
+                    <Label x:Name="lblModifiedDate" Content="修改日期" FontSize="16" Grid.Row="1" Grid.Column="2"/>
+                    <TextBox x:Name="txtCreater" Grid.Column="1" Margin="10,4,7,10" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" FontSize="16" Text="{Binding Path=Creater, Mode=OneWay}">
+                        <TextBox.Background>
+                            <SolidColorBrush Color="White" Opacity="0"/>
+                        </TextBox.Background>
+                    </TextBox>
+                    <TextBox x:Name="txtModifierDate" Grid.Column="1" Margin="10,4,7,10" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" FontSize="16" Grid.Row="1" Text="{Binding Path=Modifier, Mode=OneWay}">
+                        <TextBox.Background>
+                            <SolidColorBrush Color="White" Opacity="0"/>
+                        </TextBox.Background>
+                    </TextBox>
+                    <TextBox x:Name="txtCreaterDate" Grid.Column="3" Margin="10,4,7,10" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" FontSize="16" Text="{Binding Path=CreateDate, Mode=OneWay}">
+                        <TextBox.Background>
+                            <SolidColorBrush Color="White" Opacity="0"/>
+                        </TextBox.Background>
+                    </TextBox>
+                    <TextBox x:Name="txtModifiedDate" Grid.Column="3" Margin="10,4,7,10" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" FontSize="16" Grid.Row="1" Text="{Binding Path=ModifiedDate, Mode=OneWay}">
+                        <TextBox.Background>
+                            <SolidColorBrush Color="White" Opacity="0"/>
+                        </TextBox.Background>
+                    </TextBox>
+                    <Label x:Name="lblAuditor" Content="审核人" FontSize="16" Grid.Row="2"/>
+                    <TextBox x:Name="txtAuditor" Grid.Column="1" Margin="10,4,7,10" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" FontSize="16" Grid.Row="2" Text="{Binding Path=Auditor, Mode=OneWay}">
+                        <TextBox.Background>
+                            <SolidColorBrush Color="White" Opacity="0"/>
+                        </TextBox.Background>
+                    </TextBox>
+                    <Label x:Name="lblAuditDate" Content="审核日期" FontSize="16" Grid.Row="2" Grid.Column="2"/>
+                    <TextBox x:Name="txtAuditDate" Grid.Column="3" Margin="10,4,7,10" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" FontSize="16" Grid.Row="2" Text="{Binding Path=AuditDate, Mode=OneWay}">
+                        <TextBox.Background>
+                            <SolidColorBrush Color="White" Opacity="0"/>
+                        </TextBox.Background>
+                    </TextBox>
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <Label x:Name="lblNativePlace" Content="籍贯" Grid.Column="1" Grid.Row="4" FontSize="16"/>
+        <TextBox x:Name="txtNativePlace" Grid.Column="2" Margin="10,4,10,10" Grid.Row="4" TextWrapping="Wrap" BorderBrush="#FF007E1D" BorderThickness="0,0,0,2" Text="{Binding Path=NativePlace, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="lblCensusRegister" Content="户籍" Grid.Column="3" Grid.Row="4" FontSize="16"/>
+        <TextBox x:Name="txtCensusRegister" Grid.Column="4" Margin="10,4,10,10" Grid.Row="4" TextWrapping="Wrap" BorderBrush="#FF007E1D" BorderThickness="0,0,0,2" Text="{Binding Path=CensusRegister, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="lblMobilePhone" Content="手机号码" Grid.Column="5" Grid.Row="4" FontSize="16"/>
+        <TextBox x:Name="txtMobilePhone" Grid.Column="6" Margin="10,4,10,10" Grid.Row="4" TextWrapping="Wrap" BorderBrush="#FF007E1D" BorderThickness="0,0,0,2" Text="{Binding Path=MobilePhone, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="lblHomeAddress" Content="家庭住址" Grid.Column="1" Grid.Row="5" FontSize="16"/>
+        <TextBox x:Name="txtHomeAddress" Grid.Column="2" Margin="10,4,10,10" Grid.Row="5" TextWrapping="Wrap" BorderBrush="#FF007E1D" BorderThickness="0,0,0,2" Grid.ColumnSpan="5" Text="{Binding Path=HomeAddress, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+
+        <WpfCustomControlLibrary:ToolBarAdvanced x:Name="tbrToolBar" Grid.ColumnSpan="7" Width="Auto"/>
+
+
+    </Grid>
+</Window>

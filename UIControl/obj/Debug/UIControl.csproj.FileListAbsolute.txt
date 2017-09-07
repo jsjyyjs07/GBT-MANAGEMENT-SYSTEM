@@ -1,0 +1,36 @@
+E:\WorkSpaces\管理系统\GBT\UIControl\obj\Debug\UIControl.csprojResolveAssemblyReference.cache
+E:\WorkSpaces\管理系统\GBT\UIControl\bin\Debug\UIControl.dll
+E:\WorkSpaces\管理系统\GBT\UIControl\bin\Debug\UIControl.pdb
+E:\WorkSpaces\管理系统\GBT\UIControl\bin\Debug\Attribute.dll
+E:\WorkSpaces\管理系统\GBT\UIControl\bin\Debug\Attribute.pdb
+E:\WorkSpaces\管理系统\GBT\UIControl\obj\Debug\UIControl.dll
+E:\WorkSpaces\管理系统\GBT\UIControl\obj\Debug\UIControl.pdb
+E:\WorkSpaces\管理系统\GBT\UIControl\bin\Debug\WindowsAPI.dll
+E:\WorkSpaces\管理系统\GBT\UIControl\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\Management System\GBT\UIControl\bin\Debug\UIControl.dll
+D:\WorkSpaces\Management System\GBT\UIControl\bin\Debug\UIControl.pdb
+D:\WorkSpaces\Management System\GBT\UIControl\bin\Debug\Attribute.dll
+D:\WorkSpaces\Management System\GBT\UIControl\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\Management System\GBT\UIControl\bin\Debug\Attribute.pdb
+D:\WorkSpaces\Management System\GBT\UIControl\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\Management System\GBT\UIControl\obj\Debug\UIControl.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\Management System\GBT\UIControl\obj\Debug\UIControl.dll
+D:\WorkSpaces\Management System\GBT\UIControl\obj\Debug\UIControl.pdb
+D:\WorkSpaces\GBT尊宝电镀\UIControl\bin\Debug\UIControl.dll
+D:\WorkSpaces\GBT尊宝电镀\UIControl\bin\Debug\UIControl.pdb
+D:\WorkSpaces\GBT尊宝电镀\UIControl\bin\Debug\Attribute.dll
+D:\WorkSpaces\GBT尊宝电镀\UIControl\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\GBT尊宝电镀\UIControl\bin\Debug\Attribute.pdb
+D:\WorkSpaces\GBT尊宝电镀\UIControl\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\GBT尊宝电镀\UIControl\obj\Debug\UIControl.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT尊宝电镀\UIControl\obj\Debug\UIControl.dll
+D:\WorkSpaces\GBT尊宝电镀\UIControl\obj\Debug\UIControl.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\UIControl\bin\Debug\UIControl.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\UIControl\bin\Debug\UIControl.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\UIControl\bin\Debug\Attribute.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\UIControl\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\UIControl\bin\Debug\Attribute.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\UIControl\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\UIControl\obj\Debug\UIControl.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT尊宝电镀 - Copy\UIControl\obj\Debug\UIControl.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\UIControl\obj\Debug\UIControl.pdb

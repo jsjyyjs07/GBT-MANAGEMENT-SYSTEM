@@ -1,0 +1,227 @@
+﻿<Window x:Class="OA.AdministrationOfNetworks.BGInfoTable"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:WpfCustomControlLibrary="clr-namespace:WpfCustomControlLibrary;assembly=WpfCustomControlLibrary" x:Name="winBGInfoTable" 
+        Title="BGInfoTable" Height="480" Width="1024" MinHeight="480" MinWidth="1024" Background="#FFB8F8B8" Loaded="winBGInfoTable_Loaded" Closing="winBGInfoTable_Closing">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="120"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="120"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="120"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="45"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+        <Label x:Name="lblBoot_Time" Content="启动时间" Grid.Row="1" FontSize="16"/>
+        <TextBox x:Name="txtBoot_Time" Grid.Column="1" Margin="10,4,10,10" Grid.Row="1" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" FontSize="16" Text="{Binding Path=Boot_Time,Mode=OneWay}"
+                 IsReadOnly="{Binding ElementName=tbaToolBar, Path=IsReadOnly}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="lblCPU" Content="CPU" Grid.Column="2" Grid.Row="1" FontSize="16"/>
+        <TextBox x:Name="txtCPU" Grid.Column="3" Margin="10,4,10,10" Grid.Row="1" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" FontSize="16" Text="{Binding Path=CPU,Mode=OneWay}"
+                 IsReadOnly="{Binding ElementName=tbaToolBar, Path=IsReadOnly}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="lblDHCP_Server" Content="DHCP 服务器" Grid.Row="2" FontSize="16"/>
+        <TextBox x:Name="txtDHCP_Server" Grid.Column="1" Margin="10,4,10,10" Grid.Row="2" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" FontSize="16" Text="{Binding Path=DHCP_Server,Mode=OneWay}"
+                 IsReadOnly="{Binding ElementName=tbaToolBar, Path=IsReadOnly}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="lblDNS_Server" Content="DNS 服务器" Grid.Row="2" FontSize="16" Grid.Column="2"/>
+        <TextBox x:Name="txtDNS_Server" Grid.Column="3" Margin="10,4,10,10" Grid.Row="2" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" FontSize="16" Text="{Binding Path=DNS_Server,Mode=OneWay}"
+                 IsReadOnly="{Binding ElementName=tbaToolBar, Path=IsReadOnly}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="lblRemark" Content="备注" Grid.Row="9" FontSize="16" Grid.Column="2"/>
+        <TextBox x:Name="txtRemark" Grid.Column="3" Margin="10,4,10,10" Grid.Row="9" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" FontSize="16" Grid.ColumnSpan="3" Text="{Binding Path=Remark,Mode=OneWay}"
+                 IsReadOnly="{Binding ElementName=tbaToolBar, Path=IsReadOnly}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <WpfCustomControlLibrary:ToolBarAdvanced x:Name="tbaToolBar" Grid.ColumnSpan="6" Width="Auto" Height="Auto" IsReadOnly="True" Margin="0,0,0,1"/>
+        <TextBox x:Name="txtInnerID" Grid.Column="3" HorizontalAlignment="Left" Height="6" Margin="55,1,0,0" Grid.Row="11" TextWrapping="Wrap" Visibility="Hidden" Text="{Binding Path=InnerID}" VerticalAlignment="Top" Width="16"/>
+        <TextBox x:Name="txtRowID" Grid.Column="3" HorizontalAlignment="Left" Height="6" Margin="76,1,0,0" Grid.Row="11" TextWrapping="Wrap" Visibility="Hidden" Text="{Binding Path=RowID}" VerticalAlignment="Top" Width="16"/>
+        <Label x:Name="lblDefault_Gateway" Content="默认网关" Grid.Column="4" Grid.Row="1" FontSize="16"/>
+        <TextBox x:Name="txtDefault_Gateway" Grid.Column="5" Margin="10,4,10,10" Grid.Row="1" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" FontSize="16" Text="{Binding Path=Default_Gateway,Mode=OneWay}"
+                 IsReadOnly="{Binding ElementName=tbaToolBar, Path=IsReadOnly}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="lblFree_Space" Content="空余磁盘" Grid.Row="2" FontSize="16" Grid.Column="4"/>
+        <TextBox x:Name="txtFree_Space" Grid.Column="5" Margin="10,4,10,10" Grid.Row="2" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" FontSize="16" Text="{Binding Path=Free_Space,Mode=OneWay}"
+                 IsReadOnly="{Binding ElementName=tbaToolBar, Path=IsReadOnly}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="lblHost_Name" Content="主机名" Grid.Row="3" FontSize="16"/>
+        <TextBox x:Name="txtHost_Name" Grid.Column="1" Margin="10,4,10,10" Grid.Row="3" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" FontSize="16" Text="{Binding Path=Host_Name,Mode=OneWay}"
+                 IsReadOnly="{Binding ElementName=tbaToolBar, Path=IsReadOnly}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="lblIE_Version" Content="IE版本" Grid.Row="3" FontSize="16" Grid.Column="2"/>
+        <TextBox x:Name="txtIE_Version" Grid.Column="3" Margin="10,4,10,10" Grid.Row="3" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" FontSize="16" Text="{Binding Path=IE_Version,Mode=OneWay}"
+                 IsReadOnly="{Binding ElementName=tbaToolBar, Path=IsReadOnly}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="lblIP_Address" Content="IP地址" Grid.Row="3" FontSize="16" Grid.Column="4"/>
+        <TextBox x:Name="txtIP_Address" Grid.Column="5" Margin="10,4,10,10" Grid.Row="3" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" FontSize="16" Text="{Binding Path=IP_Address,Mode=OneWay}"
+                 IsReadOnly="{Binding ElementName=tbaToolBar, Path=IsReadOnly}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="lblLogon_Domain" Content="登录域" Grid.Row="4" FontSize="16"/>
+        <TextBox x:Name="txtLogon_Domain" Grid.Column="1" Margin="10,4,10,10" Grid.Row="4" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" FontSize="16" Text="{Binding Path=Logon_Domain,Mode=OneWay}"
+                 IsReadOnly="{Binding ElementName=tbaToolBar, Path=IsReadOnly}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="lblLogon_Server" Content="登录服务器" Grid.Row="4" FontSize="16" Grid.Column="2"/>
+        <TextBox x:Name="txtLogon_Server" Grid.Column="3" Margin="10,4,10,10" Grid.Row="4" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" FontSize="16" Text="{Binding Path=Logon_Server,Mode=OneWay}"
+                 IsReadOnly="{Binding ElementName=tbaToolBar, Path=IsReadOnly}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="lblMAC_Address" Content="MAC地址" Grid.Row="4" FontSize="16" Grid.Column="4"/>
+        <TextBox x:Name="txtMAC_Address" Grid.Column="5" Margin="10,4,10,10" Grid.Row="4" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" FontSize="16" Text="{Binding Path=MAC_Address,Mode=OneWay}"
+                 IsReadOnly="{Binding ElementName=tbaToolBar, Path=IsReadOnly}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="lblMachine_Domain" Content="工作组" Grid.Row="5" FontSize="16"/>
+        <TextBox x:Name="txtMachine_Domain" Grid.Column="1" Margin="10,4,10,10" Grid.Row="5" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" FontSize="16" Text="{Binding Path=Machine_Domain,Mode=OneWay}"
+                 IsReadOnly="{Binding ElementName=tbaToolBar, Path=IsReadOnly}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="lblNetwork_Speed" Content="网络速度" Grid.Row="6" FontSize="16"/>
+        <TextBox x:Name="txtNetwork_Speed" Grid.Column="1" Margin="10,4,10,10" Grid.Row="6" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" FontSize="16" Text="{Binding Path=Network_Speed,Mode=OneWay}"
+                 IsReadOnly="{Binding ElementName=tbaToolBar, Path=IsReadOnly}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="lblSnapshot_Time" Content="快照时间" Grid.Row="7" FontSize="16"/>
+        <TextBox x:Name="txtSnapshot_Time" Grid.Column="1" Margin="10,4,10,10" Grid.Row="7" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" FontSize="16" Text="{Binding Path=Snapshot_Time}"
+                 IsReadOnly="{Binding ElementName=tbaToolBar, Path=IsReadOnly}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="lblSystem_Type" Content="系统类型" Grid.Row="8" FontSize="16"/>
+        <TextBox x:Name="txtSystem_Type" Grid.Column="1" Margin="10,4,10,10" Grid.Row="8" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" FontSize="16" Text="{Binding Path=System_Type,Mode=OneWay}"
+                 IsReadOnly="{Binding ElementName=tbaToolBar, Path=IsReadOnly}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="lblMemory" Content="内存" Grid.Row="5" FontSize="16" Grid.Column="2"/>
+        <TextBox x:Name="txtMemory" Grid.Column="3" Margin="10,4,10,10" Grid.Row="5" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" FontSize="16" Text="{Binding Path=Memory,Mode=OneWay}"
+                 IsReadOnly="{Binding ElementName=tbaToolBar, Path=IsReadOnly}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="lblNetwork_Type" Content="网络类型" Grid.Row="6" FontSize="16" Grid.Column="2"/>
+        <TextBox x:Name="txtNetwork_Type" Grid.Column="3" Margin="10,4,10,10" Grid.Row="6" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" FontSize="16" Text="{Binding Path=Network_Type}"
+                 IsReadOnly="{Binding ElementName=tbaToolBar, Path=IsReadOnly}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="lblSubnet_Mask" Content="子网掩码" Grid.Row="7" FontSize="16" Grid.Column="2"/>
+        <TextBox x:Name="txtSubnet_Mask" Grid.Column="3" Margin="10,4,10,10" Grid.Row="7" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" FontSize="16" Text="{Binding Path=Subnet_Mask,Mode=OneWay}"
+                 IsReadOnly="{Binding ElementName=tbaToolBar, Path=IsReadOnly}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="lblTime_Stamp" Content="开始时间" Grid.Row="8" FontSize="16" Grid.Column="2"/>
+        <TextBox x:Name="txtTime_Stamp" Grid.Column="3" Margin="10,4,10,10" Grid.Row="8" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" FontSize="16" Text="{Binding Path=Time_Stamp,Mode=OneWay}"
+                 IsReadOnly="{Binding ElementName=tbaToolBar, Path=IsReadOnly}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="lblNetwork_Card" Content="网卡" Grid.Row="5" FontSize="16" Grid.Column="4"/>
+        <TextBox x:Name="txtNetwork_Card" Grid.Column="5" Margin="10,4,10,10" Grid.Row="5" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" FontSize="16" Text="{Binding Path=Network_Card,Mode=OneWay}"
+                 IsReadOnly="{Binding ElementName=tbaToolBar, Path=IsReadOnly}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="lblOS_Version" Content="操作系统" Grid.Row="6" FontSize="16" Grid.Column="4"/>
+        <TextBox x:Name="txtOS_Version" Grid.Column="5" Margin="10,4,10,10" Grid.Row="6" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" FontSize="16" Text="{Binding Path=OS_Version}"
+                 IsReadOnly="{Binding ElementName=tbaToolBar, Path=IsReadOnly}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="lblService_Pack" Content="Service Pack" Grid.Row="7" FontSize="16" Grid.Column="4"/>
+        <TextBox x:Name="txtService_Pack" Grid.Column="5" Margin="10,4,10,10" Grid.Row="7" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" FontSize="16" Text="{Binding Path=Service_Pack,Mode=OneWay}"
+                 IsReadOnly="{Binding ElementName=tbaToolBar, Path=IsReadOnly}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="lblUser_Name" Content="用户名" Grid.Row="8" FontSize="16" Grid.Column="4"/>
+        <TextBox x:Name="txtUser_Name" Grid.Column="5" Margin="10,4,10,10" Grid.Row="8" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" FontSize="16" Text="{Binding Path=User_Name,Mode=OneWay}"
+                 IsReadOnly="{Binding ElementName=tbaToolBar, Path=IsReadOnly}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="lblVolumes" Content="磁盘" Grid.Row="9" FontSize="16"/>
+        <TextBox x:Name="txtVolumes" Grid.Column="1" Margin="10,4,10,10" Grid.Row="9" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FF007E1D" FontSize="16" Text="{Binding Path=Volumes,Mode=OneWay}"
+                 IsReadOnly="{Binding ElementName=tbaToolBar, Path=IsReadOnly}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <TextBox x:Name="txtState" Margin="10,10,10,4" Grid.Row="11" TextWrapping="Wrap" BorderThickness="0" BorderBrush="#FF007E1D" FontSize="16" Text="{Binding State, ElementName=tbaToolBar, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+        	IsReadOnly="True" Foreground="Blue">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+        <TextBox x:Name="txtMessage" Margin="10,10,10,4" Grid.Row="11" TextWrapping="Wrap" BorderThickness="0" BorderBrush="#FF007E1D" FontSize="16" Text="{Binding Message, ElementName=tbaToolBar, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+        	IsReadOnly="True" Grid.Column="1" Grid.ColumnSpan="5" Foreground="Red">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </TextBox.Background>
+        </TextBox>
+    </Grid>
+</Window>

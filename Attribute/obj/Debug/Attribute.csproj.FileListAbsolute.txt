@@ -1,0 +1,41 @@
+E:\WorkSpace\管理系统\GBT\Attribute\bin\Debug\Attribute.dll
+E:\WorkSpace\管理系统\GBT\Attribute\bin\Debug\Attribute.pdb
+E:\WorkSpace\管理系统\GBT\Attribute\obj\Debug\Attribute.csprojResolveAssemblyReference.cache
+E:\WorkSpace\管理系统\GBT\Attribute\obj\Debug\Attribute.dll
+E:\WorkSpace\管理系统\GBT\Attribute\obj\Debug\Attribute.pdb
+E:\WorkSpaces\管理系统\GBT\Attribute\bin\Debug\Attribute.dll
+E:\WorkSpaces\管理系统\GBT\Attribute\bin\Debug\Attribute.pdb
+E:\WorkSpaces\管理系统\GBT\Attribute\obj\Debug\Attribute.dll
+E:\WorkSpaces\管理系统\GBT\Attribute\obj\Debug\Attribute.pdb
+E:\WorkSpaces\管理系统\GBT\Attribute\bin\Debug\Attribute.dll.config
+D:\WorkSpaces\Management System\GBT\Attribute\bin\Debug\Attribute.dll.config
+D:\WorkSpaces\Management System\GBT\Attribute\bin\Debug\Attribute.dll
+D:\WorkSpaces\Management System\GBT\Attribute\bin\Debug\Attribute.pdb
+D:\WorkSpaces\Management System\GBT\Attribute\obj\Debug\Attribute.dll
+D:\WorkSpaces\Management System\GBT\Attribute\obj\Debug\Attribute.pdb
+D:\WorkSpaces\Management System\GBT\Attribute\obj\Debug\Attribute.Properties.Resources.resources
+D:\WorkSpaces\Management System\GBT\Attribute\obj\Debug\Attribute.Resource.resources
+D:\WorkSpaces\Management System\GBT\Attribute\obj\Debug\Attribute.csproj.GenerateResource.Cache
+E:\WorkSpaces\管理系统\GBT\Attribute\obj\Debug\Attribute.Properties.Resources.resources
+E:\WorkSpaces\管理系统\GBT\Attribute\obj\Debug\Attribute.Resource.resources
+E:\WorkSpaces\管理系统\GBT\Attribute\obj\Debug\Attribute.csproj.GenerateResource.Cache
+E:\WorkSpaces\管理系统\GBT\Attribute\obj\Debug\Attribute.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT尊宝电镀\Attribute\bin\Debug\Attribute.dll.config
+D:\WorkSpaces\GBT尊宝电镀\Attribute\bin\Debug\Attribute.dll
+D:\WorkSpaces\GBT尊宝电镀\Attribute\bin\Debug\Attribute.pdb
+D:\WorkSpaces\GBT尊宝电镀\Attribute\obj\Debug\Attribute.Properties.Resources.resources
+D:\WorkSpaces\GBT尊宝电镀\Attribute\obj\Debug\Attribute.Resource.resources
+D:\WorkSpaces\GBT尊宝电镀\Attribute\obj\Debug\Attribute.csproj.GenerateResource.Cache
+D:\WorkSpaces\GBT尊宝电镀\Attribute\obj\Debug\Attribute.dll
+D:\WorkSpaces\GBT尊宝电镀\Attribute\obj\Debug\Attribute.pdb
+D:\WorkSpaces\GBT尊宝电镀\Attribute\obj\Debug\Attribute.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Attribute\bin\Debug\Attribute.dll.config
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Attribute\bin\Debug\Attribute.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Attribute\bin\Debug\Attribute.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Attribute\obj\Debug\Attribute.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Attribute\obj\Debug\Attribute.Properties.Resources.resources
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Attribute\obj\Debug\Attribute.Resource.resources
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Attribute\obj\Debug\Attribute.csproj.GenerateResource.Cache
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Attribute\obj\Debug\Attribute.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\Attribute\obj\Debug\Attribute.pdb
+D:\WorkSpaces\Management System\GBT\Attribute\obj\Debug\Attribute.csprojResolveAssemblyReference.cache

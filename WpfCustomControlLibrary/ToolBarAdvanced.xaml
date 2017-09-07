@@ -1,0 +1,112 @@
+﻿<UserControl x:Name="ToolBarExpert" x:Class="WpfCustomControlLibrary.ToolBarAdvanced"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" Loaded="ToolBarExpert_Loaded" Width="474" Height="46">
+    <Grid>
+        <ToolBarPanel x:Name="tbpToolBar" Grid.ColumnSpan="2">
+            <ToolBar x:Name="tbToolBar" Height="45" Padding="0,0,0,1" BorderBrush="Black">
+                <ToolBar.Background>
+                    <SolidColorBrush Color="#FFEEF5FD" Opacity="0"/>
+                </ToolBar.Background>
+                <Button x:Name="btnSearch" Margin="0,0,0,-5" Width="45" VerticalAlignment="Stretch" Click="btnSearch_Click">
+                    <StackPanel>
+                        <Image x:Name="imgSearch" Stretch="Fill"  ToolTip="查询" Height="25" RenderTransformOrigin="0.5,0.5" Width="35"></Image>
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="11" Foreground="Green" Height="15">查询</TextBlock>
+                    </StackPanel>
+                </Button>
+                <Button x:Name="btnAdd" Margin="0,0,0,-5" Width="45" VerticalAlignment="Stretch" Click="btnAdd_Click">
+                    <StackPanel>
+                        <Image x:Name="imgAdd" Height="25" Stretch="Fill" ToolTip="新增" Width="35"/>
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="11" Foreground="Green" Height="15">新增</TextBlock>
+                    </StackPanel>
+                </Button>
+                <Button x:Name="btnCopy" Margin="0,0,0,-5" Width="45" VerticalAlignment="Stretch" Click="btnCopy_Click">
+                    <StackPanel>
+                        <Image x:Name="imgCopy" Height="25" Stretch="Fill" ToolTip="复制" Width="35"/>
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="11" Foreground="Green" Height="15">复制</TextBlock>
+                    </StackPanel>
+                </Button>
+                <Button x:Name="btnModify" Margin="0,0,0,-5" Width="45" VerticalAlignment="Stretch" Click="btnModify_Click">
+                    <StackPanel>
+                        <Image x:Name="imgModify" Height="25" Stretch="Fill" ToolTip="修改" Width="35"/>
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="11" Foreground="Green" Height="15">修改</TextBlock>
+                    </StackPanel>
+                </Button>
+                <Button x:Name="btnSave" Margin="0,0,0,-5" Width="45" VerticalAlignment="Stretch" Click="btnSave_Click">
+                    <StackPanel>
+                        <Image x:Name="imgSave" Height="25" Stretch="Fill" ToolTip="保存" Width="35"/>
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="11" Foreground="Green" Height="15">保存</TextBlock>
+                    </StackPanel>
+                </Button>
+                <Button x:Name="btnDelete" Margin="0,0,0,-5" Width="45" VerticalAlignment="Stretch" Click="btnDelete_Click">
+                    <StackPanel>
+                        <Image x:Name="imgDel" Height="25" Stretch="Fill" ToolTip="删除" Width="35"/>
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="11" Foreground="Green" Height="15">删除</TextBlock>
+                    </StackPanel>
+                </Button>
+                <Button x:Name="btnLayIn" Margin="0,0,0,-5" Width="45" VerticalAlignment="Stretch">
+                    <StackPanel>
+                        <Image x:Name="imgLayIn" Height="25" Width="35" Stretch="Fill" ToolTip="导入"/>
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="11" Height="15" Foreground="Green">导入</TextBlock>
+                    </StackPanel>
+                </Button>
+                <Button x:Name="btnExport" Margin="0,0,0,-5" Width="45" VerticalAlignment="Stretch" Click="btnExport_Click">
+                    <StackPanel>
+                        <Image x:Name="imgExport" Height="25" Width="35" Stretch="Fill" ToolTip="导出"/>
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="11" Height="15" Foreground="Green">导出</TextBlock>
+                    </StackPanel>
+                </Button>
+                <Button x:Name="btnCancel" Margin="0,0,0,-5" Width="45" VerticalAlignment="Stretch" Click="btnCancel_Click">
+                    <StackPanel>
+                        <Image x:Name="imgCancel" Width="35" Height="25" Stretch="Fill" ToolTip="取消"/>
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="11" Height="15" Foreground="Green">取消</TextBlock>
+                    </StackPanel>
+                </Button>
+                <Button x:Name="btnAuditing" Margin="0,0,0,-5" Width="45" VerticalAlignment="Stretch" Click="btnAuditing_Click">
+                    <StackPanel>
+                        <Image x:Name="imgAuditing" Height="25" Width="35" Stretch="Fill" ToolTip="审核"/>
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="11" Height="15" Foreground="Green">审核</TextBlock>
+                    </StackPanel>
+                </Button>
+                <Button x:Name="btnUnaudited" Margin="0,0,0,-5" Width="45" VerticalAlignment="Stretch" Click="btnUnaudited_Click">
+                    <StackPanel>
+                        <Image x:Name="imgUnaudited" Height="25" Width="35" Stretch="Fill" ToolTip="取消审核"/>
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="11" Height="15" Foreground="Green">反审</TextBlock>
+                    </StackPanel>
+                </Button>
+                <Button x:Name="btnPrintPreview" Margin="0,0,0,-5" Width="45" VerticalAlignment="Stretch" Click="btnPrintPreview_Click">
+                    <StackPanel>
+                        <Image x:Name="imgPrintPreview" Height="25" Width="35" Stretch="Fill" ToolTip="打印预览"/>
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="11" Height="15" Foreground="Green">预览</TextBlock>
+                    </StackPanel>
+                </Button>
+                <Button x:Name="btnPrint" Margin="0,0,0,-5" Width="45" VerticalAlignment="Stretch" Click="btnPrint_Click">
+                    <StackPanel>
+                        <Image x:Name="imgPrint" Height="25" Width="35" Stretch="Fill" ToolTip="打印"/>
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="11" Height="15" Foreground="Green">打印</TextBlock>
+                    </StackPanel>
+                </Button>
+                <Button x:Name="btnInvalid" Margin="0,0,0,-5" Width="45" VerticalAlignment="Stretch" Click="btnInvalid_Click">
+                    <StackPanel>
+                        <Image x:Name="imgCanCellation" Height="25" Width="35" Stretch="Fill" ToolTip="作废"/>
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="11" Height="15" Foreground="Green">作废</TextBlock>
+                    </StackPanel>
+                </Button>
+                <Button x:Name="btnValid" Margin="0,0,0,-5" Width="45" VerticalAlignment="Stretch" Click="btnValid_Click">
+                    <StackPanel>
+                        <Image x:Name="imgUnCanCellation" Height="25" Width="35" Stretch="Fill" ToolTip="取消作废"/>
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="11" Height="15" Foreground="Green">启用</TextBlock>
+                    </StackPanel>
+                </Button>
+                <Button x:Name="btnAdvancedQuery" Margin="0,0,0,-5" Width="45" VerticalAlignment="Stretch">
+                    <StackPanel>
+                        <Image x:Name="imgAdvancedQuery" Height="25" Width="35" Stretch="Fill" ToolTip="高级查询"/>
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="11" Height="15" Foreground="Green">高级查询</TextBlock>
+                    </StackPanel>
+                </Button>
+            </ToolBar>
+        </ToolBarPanel>
+    </Grid>
+</UserControl>

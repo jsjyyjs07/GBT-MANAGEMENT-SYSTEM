@@ -1,0 +1,359 @@
+D:\WorkSpaces\Management System\GBT\OA\bin\Debug\OA.exe.config
+D:\WorkSpaces\Management System\GBT\OA\bin\Debug\OA.exe
+D:\WorkSpaces\Management System\GBT\OA\bin\Debug\OA.pdb
+D:\WorkSpaces\Management System\GBT\OA\bin\Debug\WpfCustomControlLibrary.dll
+D:\WorkSpaces\Management System\GBT\OA\bin\Debug\UIControl.dll
+D:\WorkSpaces\Management System\GBT\OA\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\Management System\GBT\OA\bin\Debug\Attribute.dll
+D:\WorkSpaces\Management System\GBT\OA\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\Management System\GBT\OA\bin\Debug\WpfCustomControlLibrary.pdb
+D:\WorkSpaces\Management System\GBT\OA\bin\Debug\UIControl.pdb
+D:\WorkSpaces\Management System\GBT\OA\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\Management System\GBT\OA\bin\Debug\Attribute.pdb
+D:\WorkSpaces\Management System\GBT\OA\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\OA.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\BasicInformation\SuppliersType.baml
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\MainWindow.baml
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\BasicInformation\SuppliersType.g.cs
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\MainWindow.g.cs
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\App.g.cs
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\OA_MarkupCompile.cache
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\OA.g.resources
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\OA.Properties.Resources.resources
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\OA.csproj.GenerateResource.Cache
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\OA.exe
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\OA.pdb
+E:\WorkSpaces\管理系统\GBT\OA\bin\Debug\OA.exe.config
+E:\WorkSpaces\管理系统\GBT\OA\bin\Debug\OA.exe
+E:\WorkSpaces\管理系统\GBT\OA\bin\Debug\OA.pdb
+E:\WorkSpaces\管理系统\GBT\OA\bin\Debug\UIControl.dll
+E:\WorkSpaces\管理系统\GBT\OA\bin\Debug\WpfCustomControlLibrary.dll
+E:\WorkSpaces\管理系统\GBT\OA\bin\Debug\Attribute.dll
+E:\WorkSpaces\管理系统\GBT\OA\bin\Debug\WindowsAPI.dll
+E:\WorkSpaces\管理系统\GBT\OA\bin\Debug\PerformanceFunction.dll
+E:\WorkSpaces\管理系统\GBT\OA\bin\Debug\UIControl.pdb
+E:\WorkSpaces\管理系统\GBT\OA\bin\Debug\WpfCustomControlLibrary.pdb
+E:\WorkSpaces\管理系统\GBT\OA\bin\Debug\Attribute.pdb
+E:\WorkSpaces\管理系统\GBT\OA\bin\Debug\WindowsAPI.pdb
+E:\WorkSpaces\管理系统\GBT\OA\bin\Debug\PerformanceFunction.pdb
+E:\WorkSpaces\管理系统\GBT\OA\obj\Debug\OA.csprojResolveAssemblyReference.cache
+E:\WorkSpaces\管理系统\GBT\OA\obj\Debug\BasicInformation\SuppliersType.baml
+E:\WorkSpaces\管理系统\GBT\OA\obj\Debug\MainWindow.baml
+E:\WorkSpaces\管理系统\GBT\OA\obj\Debug\BasicInformation\SuppliersType.g.cs
+E:\WorkSpaces\管理系统\GBT\OA\obj\Debug\MainWindow.g.cs
+E:\WorkSpaces\管理系统\GBT\OA\obj\Debug\App.g.cs
+E:\WorkSpaces\管理系统\GBT\OA\obj\Debug\OA_MarkupCompile.cache
+E:\WorkSpaces\管理系统\GBT\OA\obj\Debug\OA.g.resources
+E:\WorkSpaces\管理系统\GBT\OA\obj\Debug\OA.Properties.Resources.resources
+E:\WorkSpaces\管理系统\GBT\OA\obj\Debug\OA.csproj.GenerateResource.Cache
+E:\WorkSpaces\管理系统\GBT\OA\obj\Debug\OA.exe
+E:\WorkSpaces\管理系统\GBT\OA\obj\Debug\OA.pdb
+D:\WorkSpaces\Management System\GBT\OA\bin\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\Management System\GBT\OA\bin\Debug\DataBaseInterface.dll
+D:\WorkSpaces\Management System\GBT\OA\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\Management System\GBT\OA\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\Management System\GBT\OA\bin\Debug\BusinessLogicLevel.pdb
+D:\WorkSpaces\Management System\GBT\OA\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\Management System\GBT\OA\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\Management System\GBT\OA\bin\Debug\DatabaseConnection.pdb
+E:\WorkSpaces\管理系统\GBT\OA\bin\Debug\BusinessLogicLevel.dll
+E:\WorkSpaces\管理系统\GBT\OA\bin\Debug\DataBaseInterface.dll
+E:\WorkSpaces\管理系统\GBT\OA\bin\Debug\GeneralDataOperation.dll
+E:\WorkSpaces\管理系统\GBT\OA\bin\Debug\DatabaseConnection.dll
+E:\WorkSpaces\管理系统\GBT\OA\bin\Debug\BusinessLogicLevel.pdb
+E:\WorkSpaces\管理系统\GBT\OA\bin\Debug\DataBaseInterface.pdb
+E:\WorkSpaces\管理系统\GBT\OA\bin\Debug\GeneralDataOperation.pdb
+E:\WorkSpaces\管理系统\GBT\OA\bin\Debug\DatabaseConnection.pdb
+E:\WorkSpaces\管理系统\GBT\OA\obj\Debug\BasicInformation\Unit.baml
+E:\WorkSpaces\管理系统\GBT\OA\obj\Debug\BasicInformation\Unit.g.cs
+E:\WorkSpaces\管理系统\GBT\OA\obj\Debug\AdministrationOfNetworks\BGInfoTable.baml
+E:\WorkSpaces\管理系统\GBT\OA\obj\Debug\AdministrationOfNetworks\BGInfoTable.g.cs
+E:\WorkSpaces\管理系统\GBT\OA\obj\Debug\StockManagement\StockIn.baml
+E:\WorkSpaces\管理系统\GBT\OA\obj\Debug\StockManagement\StockIn.g.cs
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\AdministrationOfNetworks\BGInfoTable.baml
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\BasicInformation\Unit.baml
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\StockManagement\StockIn.baml
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\AdministrationOfNetworks\BGInfoTable.g.cs
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\BasicInformation\Unit.g.cs
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\StockManagement\StockIn.g.cs
+E:\WorkSpaces\管理系统\GBT\OA\obj\Debug\AdministrationOfNetworks\MaterialRequisition.baml
+E:\WorkSpaces\管理系统\GBT\OA\obj\Debug\AdministrationOfNetworks\MaterialRequisition.g.cs
+E:\WorkSpaces\管理系统\GBT\OA\obj\Debug\BasicInformation\Company.baml
+E:\WorkSpaces\管理系统\GBT\OA\obj\Debug\BasicInformation\Company.g.cs
+E:\WorkSpaces\管理系统\GBT\OA\obj\Debug\BasicInformation\Department.baml
+E:\WorkSpaces\管理系统\GBT\OA\obj\Debug\BasicInformation\Department.g.cs
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\AdministrationOfNetworks\MaterialRequisition.baml
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\BasicInformation\Company.baml
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\BasicInformation\Department.baml
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\AdministrationOfNetworks\MaterialRequisition.g.cs
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\BasicInformation\Company.g.cs
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\BasicInformation\Department.g.cs
+E:\WorkSpaces\管理系统\GBT\OA\obj\Debug\BasicInformation\Product.baml
+E:\WorkSpaces\管理系统\GBT\OA\obj\Debug\BasicInformation\Product.g.cs
+E:\WorkSpaces\管理系统\GBT\OA\obj\Debug\BasicInformation\Suppliers.baml
+E:\WorkSpaces\管理系统\GBT\OA\obj\Debug\BasicInformation\Suppliers.g.cs
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\BasicInformation\Product.baml
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\BasicInformation\Suppliers.baml
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\BasicInformation\Product.g.cs
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\BasicInformation\Suppliers.g.cs
+D:\WorkSpaces\Management System\GBT\OA\bin\Debug\SystemInitialization.dll
+D:\WorkSpaces\Management System\GBT\OA\bin\Debug\SystemInitialization.pdb
+E:\WorkSpaces\管理系统\GBT\OA\bin\Debug\SystemInitialization.dll
+E:\WorkSpaces\管理系统\GBT\OA\bin\Debug\SystemInitialization.pdb
+D:\WorkSpaces\GBT\OA\bin\Debug\OA.exe.config
+D:\WorkSpaces\GBT\OA\bin\Debug\OA.exe
+D:\WorkSpaces\GBT\OA\bin\Debug\OA.pdb
+D:\WorkSpaces\GBT\OA\bin\Debug\Attribute.dll
+D:\WorkSpaces\GBT\OA\bin\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\GBT\OA\bin\Debug\SystemInitialization.dll
+D:\WorkSpaces\GBT\OA\bin\Debug\UIControl.dll
+D:\WorkSpaces\GBT\OA\bin\Debug\WpfCustomControlLibrary.dll
+D:\WorkSpaces\GBT\OA\bin\Debug\DataBaseInterface.dll
+D:\WorkSpaces\GBT\OA\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\GBT\OA\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\GBT\OA\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\GBT\OA\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\GBT\OA\bin\Debug\Attribute.pdb
+D:\WorkSpaces\GBT\OA\bin\Debug\BusinessLogicLevel.pdb
+D:\WorkSpaces\GBT\OA\bin\Debug\SystemInitialization.pdb
+D:\WorkSpaces\GBT\OA\bin\Debug\UIControl.pdb
+D:\WorkSpaces\GBT\OA\bin\Debug\WpfCustomControlLibrary.pdb
+D:\WorkSpaces\GBT\OA\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\GBT\OA\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\GBT\OA\bin\Debug\DatabaseConnection.pdb
+D:\WorkSpaces\GBT\OA\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\GBT\OA\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\GBT\OA\obj\Debug\OA.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT\OA\obj\Debug\AdministrationOfNetworks\BGInfoTable.baml
+D:\WorkSpaces\GBT\OA\obj\Debug\AdministrationOfNetworks\MaterialRequisition.baml
+D:\WorkSpaces\GBT\OA\obj\Debug\BasicInformation\Company.baml
+D:\WorkSpaces\GBT\OA\obj\Debug\BasicInformation\Department.baml
+D:\WorkSpaces\GBT\OA\obj\Debug\BasicInformation\Product.baml
+D:\WorkSpaces\GBT\OA\obj\Debug\BasicInformation\Suppliers.baml
+D:\WorkSpaces\GBT\OA\obj\Debug\BasicInformation\SuppliersType.baml
+D:\WorkSpaces\GBT\OA\obj\Debug\BasicInformation\Unit.baml
+D:\WorkSpaces\GBT\OA\obj\Debug\MainWindow.baml
+D:\WorkSpaces\GBT\OA\obj\Debug\StockManagement\StockIn.baml
+D:\WorkSpaces\GBT\OA\obj\Debug\AdministrationOfNetworks\BGInfoTable.g.cs
+D:\WorkSpaces\GBT\OA\obj\Debug\AdministrationOfNetworks\MaterialRequisition.g.cs
+D:\WorkSpaces\GBT\OA\obj\Debug\BasicInformation\Company.g.cs
+D:\WorkSpaces\GBT\OA\obj\Debug\BasicInformation\Department.g.cs
+D:\WorkSpaces\GBT\OA\obj\Debug\BasicInformation\Product.g.cs
+D:\WorkSpaces\GBT\OA\obj\Debug\BasicInformation\Suppliers.g.cs
+D:\WorkSpaces\GBT\OA\obj\Debug\BasicInformation\SuppliersType.g.cs
+D:\WorkSpaces\GBT\OA\obj\Debug\BasicInformation\Unit.g.cs
+D:\WorkSpaces\GBT\OA\obj\Debug\MainWindow.g.cs
+D:\WorkSpaces\GBT\OA\obj\Debug\StockManagement\StockIn.g.cs
+D:\WorkSpaces\GBT\OA\obj\Debug\App.g.cs
+D:\WorkSpaces\GBT\OA\obj\Debug\OA_MarkupCompile.cache
+D:\WorkSpaces\GBT\OA\obj\Debug\OA.g.resources
+D:\WorkSpaces\GBT\OA\obj\Debug\OA.Properties.Resources.resources
+D:\WorkSpaces\GBT\OA\obj\Debug\OA.csproj.GenerateResource.Cache
+D:\WorkSpaces\GBT\OA\obj\Debug\OA.exe
+D:\WorkSpaces\GBT\OA\obj\Debug\OA.pdb
+D:\WorkSpaces\GBT\OA\obj\Debug\InvoiceManage\Invoice.baml
+D:\WorkSpaces\GBT\OA\obj\Debug\InvoiceManage\Invoice.g.cs
+D:\WorkSpaces\GBT\OA\obj\Debug\InvoiceManage\InvoicePrintPreview.baml
+D:\WorkSpaces\GBT\OA\obj\Debug\InvoiceManage\InvoicePrintPreview.g.cs
+D:\WorkSpaces\GBT\OA\obj\Debug\InvoiceManage\Color.baml
+D:\WorkSpaces\GBT\OA\obj\Debug\InvoiceManage\Color.g.cs
+D:\WorkSpaces\GBT\OA\obj\Debug\InvoiceManage\Process.baml
+D:\WorkSpaces\GBT\OA\obj\Debug\InvoiceManage\Process.g.cs
+D:\WorkSpaces\GBT\OA\obj\Debug\RdlCompile.cache
+D:\WorkSpaces\GBT\OA\obj\Debug\RdlCompile.compiled
+D:\WorkSpaces\GBT尊宝电镀\OA\bin\Debug\OA.exe.config
+D:\WorkSpaces\GBT尊宝电镀\OA\bin\Debug\OA.exe
+D:\WorkSpaces\GBT尊宝电镀\OA\bin\Debug\OA.pdb
+D:\WorkSpaces\GBT尊宝电镀\OA\bin\Debug\Attribute.dll
+D:\WorkSpaces\GBT尊宝电镀\OA\bin\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\GBT尊宝电镀\OA\bin\Debug\SystemInitialization.dll
+D:\WorkSpaces\GBT尊宝电镀\OA\bin\Debug\UIControl.dll
+D:\WorkSpaces\GBT尊宝电镀\OA\bin\Debug\WpfCustomControlLibrary.dll
+D:\WorkSpaces\GBT尊宝电镀\OA\bin\Debug\DataBaseInterface.dll
+D:\WorkSpaces\GBT尊宝电镀\OA\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\GBT尊宝电镀\OA\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\GBT尊宝电镀\OA\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\GBT尊宝电镀\OA\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\GBT尊宝电镀\OA\bin\Debug\Attribute.pdb
+D:\WorkSpaces\GBT尊宝电镀\OA\bin\Debug\BusinessLogicLevel.pdb
+D:\WorkSpaces\GBT尊宝电镀\OA\bin\Debug\SystemInitialization.pdb
+D:\WorkSpaces\GBT尊宝电镀\OA\bin\Debug\UIControl.pdb
+D:\WorkSpaces\GBT尊宝电镀\OA\bin\Debug\WpfCustomControlLibrary.pdb
+D:\WorkSpaces\GBT尊宝电镀\OA\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\GBT尊宝电镀\OA\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\GBT尊宝电镀\OA\bin\Debug\DatabaseConnection.pdb
+D:\WorkSpaces\GBT尊宝电镀\OA\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\GBT尊宝电镀\OA\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\OA.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\AdministrationOfNetworks\BGInfoTable.baml
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\AdministrationOfNetworks\MaterialRequisition.baml
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\BasicInformation\Company.baml
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\BasicInformation\Department.baml
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\BasicInformation\Product.baml
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\BasicInformation\Suppliers.baml
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\BasicInformation\SuppliersType.baml
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\BasicInformation\Unit.baml
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\InvoiceManage\Color.baml
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\InvoiceManage\Invoice.baml
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\InvoiceManage\InvoicePrintPreview.baml
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\InvoiceManage\Process.baml
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\MainWindow.baml
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\StockManagement\StockIn.baml
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\AdministrationOfNetworks\BGInfoTable.g.cs
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\AdministrationOfNetworks\MaterialRequisition.g.cs
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\BasicInformation\Company.g.cs
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\BasicInformation\Department.g.cs
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\BasicInformation\Product.g.cs
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\BasicInformation\Suppliers.g.cs
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\BasicInformation\SuppliersType.g.cs
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\BasicInformation\Unit.g.cs
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\InvoiceManage\Color.g.cs
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\InvoiceManage\Invoice.g.cs
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\InvoiceManage\InvoicePrintPreview.g.cs
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\InvoiceManage\Process.g.cs
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\MainWindow.g.cs
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\StockManagement\StockIn.g.cs
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\App.g.cs
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\OA_MarkupCompile.cache
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\OA.g.resources
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\OA.Properties.Resources.resources
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\OA.csproj.GenerateResource.Cache
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\RdlCompile.cache
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\RdlCompile.compiled
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\OA.exe
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\OA.pdb
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\InvoiceManage\InviceDetail.baml
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\InvoiceManage\InviceDetail.g.cs
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\InvoiceManage\Customer.baml
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\InvoiceManage\Customer.g.cs
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\InvoiceManage\ShipOrder.baml
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\InvoiceManage\ShipOrder.g.cs
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\InvoiceManage\ShipPrintPreview.baml
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\InvoiceManage\ShipPrintPreview.g.cs
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\InvoiceManage\StockIn.baml
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\InvoiceManage\StockIn.g.cs
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\InvoiceManage\StockOut.baml
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\InvoiceManage\StockOut.g.cs
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\InvoiceManage\StockOutPrintPreview.baml
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\InvoiceManage\StockOutPrintPreview.g.cs
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\InvoiceManage\WareHouse.baml
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\InvoiceManage\WareHouse.g.cs
+D:\WorkSpaces\GBT尊宝电镀\OA\bin\Debug\OA.exe.manifest
+D:\WorkSpaces\GBT尊宝电镀\OA\bin\Debug\OA.application
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\OA.exe.manifest
+D:\WorkSpaces\GBT尊宝电镀\OA\obj\Debug\OA.application
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\bin\Debug\OA.exe.config
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\bin\Debug\OA.exe.manifest
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\bin\Debug\OA.application
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\bin\Debug\OA.exe
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\bin\Debug\OA.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\bin\Debug\Attribute.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\bin\Debug\BusinessLogicLevel.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\bin\Debug\SystemInitialization.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\bin\Debug\UIControl.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\bin\Debug\WpfCustomControlLibrary.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\bin\Debug\DataBaseInterface.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\bin\Debug\GeneralDataOperation.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\bin\Debug\PerformanceFunction.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\bin\Debug\DatabaseConnection.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\bin\Debug\WindowsAPI.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\bin\Debug\Attribute.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\bin\Debug\BusinessLogicLevel.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\bin\Debug\SystemInitialization.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\bin\Debug\UIControl.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\bin\Debug\WpfCustomControlLibrary.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\bin\Debug\DataBaseInterface.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\bin\Debug\GeneralDataOperation.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\bin\Debug\PerformanceFunction.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\bin\Debug\DatabaseConnection.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\bin\Debug\WindowsAPI.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\OA.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\AdministrationOfNetworks\BGInfoTable.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\AdministrationOfNetworks\MaterialRequisition.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\BasicInformation\Company.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\BasicInformation\Department.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\BasicInformation\Product.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\BasicInformation\Suppliers.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\BasicInformation\SuppliersType.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\BasicInformation\Unit.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\InvoiceManage\Color.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\InvoiceManage\Customer.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\InvoiceManage\InviceDetail.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\InvoiceManage\Invoice.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\InvoiceManage\InvoicePrintPreview.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\InvoiceManage\Process.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\InvoiceManage\ShipOrder.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\InvoiceManage\ShipPrintPreview.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\InvoiceManage\StockIn.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\InvoiceManage\StockOut.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\InvoiceManage\StockOutPrintPreview.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\InvoiceManage\WareHouse.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\MainWindow.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\StockManagement\StockIn.baml
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\AdministrationOfNetworks\BGInfoTable.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\AdministrationOfNetworks\MaterialRequisition.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\BasicInformation\Company.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\BasicInformation\Department.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\BasicInformation\Product.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\BasicInformation\Suppliers.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\BasicInformation\SuppliersType.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\BasicInformation\Unit.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\InvoiceManage\Color.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\InvoiceManage\Customer.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\InvoiceManage\InviceDetail.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\InvoiceManage\Invoice.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\InvoiceManage\InvoicePrintPreview.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\InvoiceManage\Process.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\InvoiceManage\ShipOrder.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\InvoiceManage\ShipPrintPreview.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\InvoiceManage\StockIn.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\InvoiceManage\StockOut.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\InvoiceManage\StockOutPrintPreview.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\InvoiceManage\WareHouse.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\MainWindow.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\StockManagement\StockIn.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\App.g.cs
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\OA_MarkupCompile.cache
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\OA.g.resources
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\OA.Properties.Resources.resources
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\OA.csproj.GenerateResource.Cache
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\RdlCompile.cache
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\RdlCompile.compiled
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\OA.exe.manifest
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\OA.application
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\OA.exe
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\obj\Debug\OA.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\bin\Debug\DataConvert.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\bin\Debug\DataConvert.pdb
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\WorkSpaces\GBT尊宝电镀 - Copy\OA\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\WorkSpaces\Management System\GBT\OA\bin\Debug\OA.exe.manifest
+D:\WorkSpaces\Management System\GBT\OA\bin\Debug\OA.application
+D:\WorkSpaces\Management System\GBT\OA\bin\Debug\DataConvert.dll
+D:\WorkSpaces\Management System\GBT\OA\bin\Debug\DataConvert.pdb
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\InvoiceManage\Color.baml
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\InvoiceManage\Customer.baml
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\InvoiceManage\InviceDetail.baml
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\InvoiceManage\Invoice.baml
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\InvoiceManage\InvoicePrintPreview.baml
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\InvoiceManage\Process.baml
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\InvoiceManage\ShipOrder.baml
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\InvoiceManage\ShipPrintPreview.baml
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\InvoiceManage\StockIn.baml
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\InvoiceManage\StockOut.baml
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\InvoiceManage\StockOutPrintPreview.baml
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\InvoiceManage\WareHouse.baml
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\InvoiceManage\Color.g.cs
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\InvoiceManage\Customer.g.cs
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\InvoiceManage\InviceDetail.g.cs
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\InvoiceManage\Invoice.g.cs
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\InvoiceManage\InvoicePrintPreview.g.cs
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\InvoiceManage\Process.g.cs
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\InvoiceManage\ShipOrder.g.cs
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\InvoiceManage\ShipPrintPreview.g.cs
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\InvoiceManage\StockIn.g.cs
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\InvoiceManage\StockOut.g.cs
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\InvoiceManage\StockOutPrintPreview.g.cs
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\InvoiceManage\WareHouse.g.cs
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\OA.exe.manifest
+D:\WorkSpaces\Management System\GBT\OA\obj\Debug\OA.application
